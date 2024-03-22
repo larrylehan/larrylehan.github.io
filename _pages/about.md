@@ -28,9 +28,13 @@ Banff International Research Station, Aug 2022
 [[Video]](https://www.birs.ca/events/2022/5-day-workshops/22w5184/videos/watch/202208221400-Han.html)
 
 ## Upcoming Talks  
-[Mar 20, 2024] **[Invited talk at Northeastern University, Center for Signal Processing, Imaging, Reasoning, and Learning]** Boston, MA.
+May 14-17, 2024. **[Oral at ACIC]** Seattle, WA.
 
 ## Recent News  
+Mar 21, 2024. **[New preprint]** [A Transfer Learning Causal Approach to Evaluate Racial/Ethnic and Geographic Variation in Outcomes Following Congenital Heart Surgery](https://arxiv.org/abs/2403.14573) is available on Arxiv.
+
+Mar 20, 2024. **[Invited talk at Northeastern University, Center for Signal Processing, Imaging, Reasoning, and Learning]** Boston, MA.  
+
 Feb 12, 2024. **[Invited talk at INRIA Causal Inference and Missing Data Group]** Paris, France (Virtual).
 
 Jan 8, 2024. **[Spring 2024 - Teaching HSCI 5151: Methods for Observational Studies 2]** Boston, MA.  

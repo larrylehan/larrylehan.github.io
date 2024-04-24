@@ -5,7 +5,7 @@ permalink: /talks/
 author_profile: true
 ---
 
-## Video Talks
+## Videos
 
 **Promises and Perils of Multiply Robust Federated and Transfer Learning to Estimate Causal Effects**  
 Harvard University Institute for Quantitative Social Sciences, Applied Statistics Workshop, Sep 2023  

@@ -10,13 +10,20 @@ I develop statistical and machine learning methods with real-world applications 
 * Data integration
 * Federated and transfer learning
 * Sensitivity analysis
+* Survival analysis
 
 Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications.
 
 Here, I highlight some of my ongoing and recent work.
 
 
-## Statistical Methods
+## Statistics and Machine Learning  
+
+**[Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331)**.  
+International Conference on Machine Learning (2024).  
+Liu Y, Levis A, Normand S-L, **Han L**.  
+We develop robust and efficient prediction intervals for missing outcomes in a target population leveraging multiple, potentially biased source populations.  [[Github]](https://github.com/yiliu1998/Multi-Source-Conformal)
+
 **[Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)**.  
 Annals of Applied Statistics (2024).   
 *2023 ASA Student Paper Award of the Health Policy Statistics Section.*  
@@ -62,12 +69,6 @@ We provide doubly robust estimation and inference for the proportion of treatmen
 Biometrics (2022).  
 Wang X, Parast L, **Han L,** Tian L, Cai T.  
 We propose a novel calibrated model fusion approach to optimally combine multiple surrogate markers to improve power.
-
-
-**Doubly Robust Semi-supervised Estimation of Survival**.    
-**Han L,** Hou J, Cai T.  
-This paper develops semi-supervised, transfer learning methods to improve efficiency of pragmatic trials when the study endpoint is time-to-event and is captured using imperfect surrogates in electronic health records.
-
 
 
 

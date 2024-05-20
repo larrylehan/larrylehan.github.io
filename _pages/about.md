@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+May 16, 2024. **[Invited talk at ACIC]** Seattle, WA.  
+
 May 15, 2024. **[New paper]** [Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331) has been accepted at *ICML 2024*! [[Github]](https://github.com/yiliu1998/Multi-Source-Conformal)
 
 Apr 6, 2024. **[New paper]** [Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short) is published in the *Annals of Applied Statistics*!  

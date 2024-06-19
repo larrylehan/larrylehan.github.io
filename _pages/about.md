@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Health Sciences](https://bouve.northeastern.edu/health-sciences/) at Northeastern University, an Impact Engine Fellow of the [Real-World Healthcare Navigator](https://impactengines.northeastern.edu/ie/rwhn/), and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html).
+I am an Assistant Professor in the [Department of Public Health and Health Sciences](https://bouve.northeastern.edu/directory/larry-han/) at Northeastern University and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html).
 
 [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical and machine learning methods to leverage real-world data to improve decision-making in public health and clinical medicine. This involves designing robust, efficient, and targeted estimators for causal effects using large-scale data generated from electronic health records and clinical trial data. Active areas of research include causal inference, conformal inference, data integration, federated and transfer learning, and sensitivity analysis.
 
@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Jun 24, 2024. **[Invited talk at Harvard Medical School, Health Care Policy]** Boston, MA.
+
 May 16, 2024. **[Invited talk at ACIC]** Seattle, WA.  
 
 May 15, 2024. **[New paper]** [Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331) has been accepted at *ICML 2024*! [[Github]](https://github.com/yiliu1998/Multi-Source-Conformal)

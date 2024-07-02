@@ -18,6 +18,10 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Jul 8-10, 2024. **[Invited session organizer and speaker at the International Conference on Frontiers of Data Science]** Hangzhou, China.  
+
+Jul 4-7, 2024. **[Invited to attend NCUSCR-Schwarzman Scholars Global Health Seminar]** Geneva, Switzerland.  
+
 Jun 24, 2024. **[Invited talk at Harvard Medical School, Health Care Policy]** Boston, MA.
 
 May 16, 2024. **[Invited talk at ACIC]** Seattle, WA.  

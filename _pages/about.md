@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Jul 11, 2024. **[New preprint]** [A Surrogate Endpoint Based Provisional Approval Causal Roadmap](https://arxiv.org/abs/2407.06350) is available on Arxiv.  
+
 Jul 8-10, 2024. **[Invited session organizer and speaker at the International Conference on Frontiers of Data Science]** Hangzhou, China.  
 
 Jul 4-7, 2024. **[Invited to attend NCUSCR-Schwarzman Scholars Global Health Seminar]** Geneva, Switzerland.  

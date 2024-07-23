@@ -18,6 +18,10 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Jul 24-26, 2024. **[ICML 2024]** Presenting [Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331) in Vienna, Austria.  
+
+Jul 23, 2024. **[New paper]** [Detecting univariate, bivariate, and overall effects of drug mixtures using Bayesian kernel machine regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*.
+
 Jul 18, 2024. **[[WebENAR: Van Ryzin Award Highlights]](https://www.enar.org/education/)** [Identifying Surrogate Markers in Real-world Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569).  
 
 Jul 11, 2024. **[New preprint]** [A Surrogate Endpoint Based Provisional Approval Causal Roadmap](https://arxiv.org/abs/2407.06350) is available on Arxiv.  

@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Aug 5-8, 2024. **[JSM 2024]** Presenting in the session *New methods for integrative and adaptive analysis* in Portland, OR.  
+
 Jul 24-26, 2024. **[ICML 2024]** Presenting [Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331) in Vienna, Austria.  
 
 Jul 23, 2024. **[New paper]** [Detecting univariate, bivariate, and overall effects of drug mixtures using Bayesian kernel machine regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*.

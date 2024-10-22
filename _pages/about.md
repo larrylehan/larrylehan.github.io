@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Nov 7-8, 2024. **[Invited talk at FIORD]** Bethesda, MD.  
+
 Sep 10, 2024. **[Invited talk at NYU Langone Biostatistics Seminar]** NYC, NY.  
 
 Aug 5-8, 2024. **[JSM 2024]** Presenting in the session *New methods for integrative and adaptive analysis* in Portland, OR.  

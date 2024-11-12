@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Nov 13, 2024. **[Talk at Duan Lab, Harvard Biostatistics]** Boston, MA.  
+
 Nov 7-8, 2024. **[Invited talk at FIORD]** Bethesda, MD.  
 
 Sep 10, 2024. **[Invited talk at NYU Langone Biostatistics Seminar]** NYC, NY.  
@@ -61,37 +63,6 @@ Dec 12, 2023. **[Invited talk at Peking University School of Economics and Insti
 Dec 4, 2023. **[Invited talk at Cytel Inc.]** Cambridge, MA.  
 [Robust and Optimal Sensitivity Analysis (ROSA) for Clinical Trial Designs](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2216253)  
 
-Nov 6, 2023. **[Invited talk at the Forum on the Integration of Observational and Randomized Data]**  Washington, DC.   
-[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
-
-Oct 15, 2023. **[Invited talk at INFORMS]**  Phoenix, AZ.   
-[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
-
-Oct 13, 2023. **[Invited talk at Boston Pharmaceutical Symposium]**  Boston, MA.   
-[Sensitivity Analysis of Clinical Trial Designs](https://www.tandfonline.com/doi/abs/10.1080/00031305.2023.2216253?journalCode=utas20).  
-
-Oct 10, 2023. **[New paper]** [Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://arxiv.org/abs/2203.00768) has been accepted at *Annals of Applied Statistics!*  
-
-Sep 21, 2023. **[New paper]** [Multiply Robust Federated Estimation of TATEs](https://arxiv.org/abs/2309.12600) has been accepted at *NeurIPS 2023!*
-
-Sep 20, 2023. **[Invited talk at Applied Statistics Workshop, Harvard Institute for Quantitative Social Science]** Cambridge, MA.  
-[Promises and Perils of Multiply Robust Federated and Transfer Learning to Estimate Causal Effects](https://projects.iq.harvard.edu/applied.stats.workshop-gov3009). 
-
-Aug 8, 2023. **[Invited talk at JSM]**  Toronto, CN.   
-Federated and Transfer Learning to Estimate Causal Effects of Underrepresented Populations.
-
-Aug 7, 2023. **[Invited talk at JSM]**  Toronto, CN.   
-[Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://arxiv.org/abs/2203.00768).  
-*Winner of the Health Policy Statistics Section Student Paper Award.*
-
-Aug 2-5, 2023. **[Attended IMS New Researchers Conference]**  Toronto, CN.
-
-Jul 10-11, 2023. **[Rapporteur at U.S.-China Track II Healthcare Dialogue]**  Durham, NC.   
-[Consensus Agreement](https://www.ncuscr.org/program/us-china-track-ii-dialogue-healthcare/#:~:text=The%20participants%20agreed%20that%20collaboration,was%20distributed%20to%20both%20governments.).  
-
-May 1, 2023. **[Successful Ph.D. Dissertation Defense!]** Boston, MA.  
-[On Causal Inference in Real World Settings](https://dash.harvard.edu/handle/1/37375748).  
-Thank you to my committee, including Tianxi Cai, Lorenzo Trippa, Rui Duan, and Sebastian Schneeweiss.
 
 
 

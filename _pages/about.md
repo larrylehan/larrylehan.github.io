@@ -18,6 +18,10 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Nov 21, 2024. **[Talk at UPenn Center for Causal Inference]** Virtual.  
+
+Nov 17, 2024. **[New paper]** [Robust Inference for Federated Meta-Learning](https://arxiv.org/pdf/2301.00718) has been accepted at *Journal of the American Statistical Association*.  
+
 Nov 13, 2024. **[Talk at Duan Lab, Harvard Biostatistics]** Boston, MA.  
 
 Nov 7-8, 2024. **[Invited talk at FIORD]** Bethesda, MD.  

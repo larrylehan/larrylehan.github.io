@@ -19,6 +19,11 @@ Here, I highlight some of my ongoing and recent work.
 
 ## Statistics and Machine Learning  
 
+**[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
+Journal of American Statistical Association (JASA), accepted (2024+).  
+Guo Z, Li X, **Han L,** Cai T.  
+We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.
+
 **[Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331)**.  
 International Conference on Machine Learning (2024).  
 Liu Y, Levis A, Normand S-L, **Han L**.  
@@ -36,10 +41,6 @@ NeurIPS (2024).
 **Han L,** Zhu S, Zubizarreta, J.  
 We provide multiply robust and privacy-preserving estimation of treatment effects under covariate mismatch and covariate shift for target populations of interest.
 
-**[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
-Arxiv, Invited revision at JASA (2024+).  
-Guo Z, Li X, **Han L,** Cai T.  
-We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.
 
 **[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
 Arxiv, Invited revision at JASA (2024+).  

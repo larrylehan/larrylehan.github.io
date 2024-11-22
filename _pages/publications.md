@@ -20,7 +20,7 @@ Here, I highlight some of my ongoing and recent work.
 ## Statistics and Machine Learning  
 
 **[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
-Journal of American Statistical Association (JASA), accepted (2024+).  
+Journal of the American Statistical Association (JASA), accepted (2024+).  
 Guo Z, Li X, **Han L,** Cai T.  
 We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.
 

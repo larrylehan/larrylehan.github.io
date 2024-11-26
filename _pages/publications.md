@@ -22,7 +22,12 @@ Here, I highlight some of my ongoing and recent work.
 **[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
 Journal of the American Statistical Association (JASA), accepted (2024+).  
 Guo Z, Li X, **Han L,** Cai T.  
-We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.
+We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.  
+
+**[Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384)**.  
+NEJM Evidence (2024).  
+**Han L.**  
+In this editorial, I discuss the challenges of left truncation in survival analysis and highlight some modern methods to account for such challenges.  
 
 **[Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331)**.  
 International Conference on Machine Learning (2024).  

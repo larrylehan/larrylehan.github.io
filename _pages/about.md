@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Nov 27, 2024. **[New preprint]** [Bounding causal effects with an unknown mixture of informative and non-informative censoring](https://arxiv.org/pdf/2411.16902) is available on Arxiv.  
+
 Nov 26, 2024. **[New paper]** [Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384) is published in *NEJM Evidence*.    
 
 Nov 21, 2024. **[Talk at UPenn Center for Causal Inference]** Virtual.  

@@ -19,6 +19,11 @@ Here, I highlight some of my ongoing and recent work.
 
 ## Statistics and Machine Learning  
 
+**[On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365)**.   
+Arxiv (2024).  
+Gao C, Gilbert, P, **Han L.**  
+We devise a new framework to leverage surrogate outcomes to construct doubly robust and efficient prediction intervals for individual causal effects.  
+
 **[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
 Journal of the American Statistical Association (JASA), accepted (2024+).  
 Guo Z, Li X, **Han L,** Cai T.  

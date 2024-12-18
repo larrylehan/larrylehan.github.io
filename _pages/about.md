@@ -18,6 +18,10 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Dec 17, 2024. **[New preprint]** [On the role of surrogates in conformal inference of individual causal effects](https://arxiv.org/pdf/2412.12365) is available on Arxiv.  
+
+Dec 17, 2024. **[Invited talk at ICSDS]** Nice, France.  
+
 Nov 27, 2024. **[New preprint]** [Bounding causal effects with an unknown mixture of informative and non-informative censoring](https://arxiv.org/pdf/2411.16902) is available on Arxiv.  
 
 Nov 26, 2024. **[New paper]** [Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384) is published in *NEJM Evidence*.    
@@ -65,11 +69,7 @@ Jan 8, 2024. **[Spring 2024 - Teaching HSCI 5151: Methods for Observational Stud
 Dec 13, 2023. **[NeurIPS 2023]** New Orleans, LA.  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)  
 
-Dec 12, 2023. **[Invited talk at Peking University School of Economics and Institute for Global Health and Development]** Beijing, China (Virtual).  
-[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)
 
-Dec 4, 2023. **[Invited talk at Cytel Inc.]** Cambridge, MA.  
-[Robust and Optimal Sensitivity Analysis (ROSA) for Clinical Trial Designs](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2216253)  
 
 
 

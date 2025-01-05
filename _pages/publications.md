@@ -24,8 +24,14 @@ Arxiv (2024).
 Gao C, Gilbert, P, **Han L.**  
 We devise a new framework to leverage surrogate outcomes to construct doubly robust and efficient prediction intervals for individual causal effects.  
 
+**[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
+Journal of the American Statistical Association (JASA), accepted (2025).    
+*2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
+**Han L,** Hou J, Cho K, Duan R, Cai T.  
+We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
+
 **[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
-Journal of the American Statistical Association (JASA), accepted (2024+).  
+Journal of the American Statistical Association (JASA), accepted (2025).  
 Guo Z, Li X, **Han L,** Cai T.  
 We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.  
 
@@ -49,14 +55,7 @@ We leverage federated multi-hospital data for hospital ranking and quality measu
 **[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://openreview.net/pdf?id=M6UccKMFGl)**.  
 NeurIPS (2024).  
 **Han L,** Zhu S, Zubizarreta, J.  
-We provide multiply robust and privacy-preserving estimation of treatment effects under covariate mismatch and covariate shift for target populations of interest.
-
-
-**[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
-Arxiv, Invited revision at JASA (2024+).  
-*2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
-**Han L,** Hou J, Cho K, Duan R, Cai T.  
-We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
+We provide multiply robust and privacy-preserving estimation of treatment effects under covariate mismatch and covariate shift for target populations of interest.  
 
 **[Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials](https://evidence.nejm.org/stoken/default+domain/UEWEJXD5NVZ9WK9JPQM5/full?redirectUri=/doi/full/10.1056/EVIDe2300142)**.  
 NEJM Evidence (2023).  

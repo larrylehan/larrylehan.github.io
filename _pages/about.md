@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Jan 5, 2025. **[New paper]** [Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313) has been accepted at *Journal of the American Statistical Association*.  
+
 Dec 17, 2024. **[New preprint]** [On the role of surrogates in conformal inference of individual causal effects](https://arxiv.org/pdf/2412.12365) is available on Arxiv.  
 
 Dec 17, 2024. **[Invited talk at ICSDS]** Nice, France.  

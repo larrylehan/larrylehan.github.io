@@ -18,7 +18,11 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
-Jan 5, 2025. **[New paper]** [Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313) has been accepted at *Journal of the American Statistical Association*.  
+Jan 8, 2025. **[Teaching]** Spring 2025, teaching a PhD-level first course in causal inference, PHTH 6800: Causal Inference in Public Health Research, Boston, MA.  
+
+Jan 6, 2025. **[Publication]** [Robust Inference for Federated Meta-Learning](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246) has been published in *Journal of the American Statistical Association*.  
+
+Jan 5, 2025. **[Acceptance]** [Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313) has been accepted at *Journal of the American Statistical Association*.  
 
 Dec 17, 2024. **[New preprint]** [On the role of surrogates in conformal inference of individual causal effects](https://arxiv.org/pdf/2412.12365) is available on Arxiv.  
 
@@ -26,11 +30,11 @@ Dec 17, 2024. **[Invited talk at ICSDS]** Nice, France.
 
 Nov 27, 2024. **[New preprint]** [Bounding causal effects with an unknown mixture of informative and non-informative censoring](https://arxiv.org/pdf/2411.16902) is available on Arxiv.  
 
-Nov 26, 2024. **[New paper]** [Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384) is published in *NEJM Evidence*.    
+Nov 26, 2024. **[Publication]** [Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384) is published in *NEJM Evidence*.    
 
 Nov 21, 2024. **[Talk at UPenn Center for Causal Inference]** Virtual.  
 
-Nov 17, 2024. **[New paper]** [Robust Inference for Federated Meta-Learning](https://arxiv.org/pdf/2301.00718) has been accepted at *Journal of the American Statistical Association*.  
+Nov 17, 2024. **[Acceptance]** [Robust Inference for Federated Meta-Learning](https://arxiv.org/pdf/2301.00718) has been accepted at *Journal of the American Statistical Association*.  
 
 Nov 13, 2024. **[Talk at Duan Lab, Harvard Biostatistics]** Boston, MA.  
 
@@ -42,7 +46,7 @@ Aug 5-8, 2024. **[JSM 2024]** Presenting in the session *New methods for integra
 
 Jul 24-26, 2024. **[ICML 2024]** Presenting [Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331) in Vienna, Austria.  
 
-Jul 23, 2024. **[New paper]** [Detecting univariate, bivariate, and overall effects of drug mixtures using Bayesian kernel machine regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*.
+Jul 23, 2024. **[Publication]** [Detecting univariate, bivariate, and overall effects of drug mixtures using Bayesian kernel machine regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*.
 
 Jul 18, 2024. **[[WebENAR: Van Ryzin Award Highlights]](https://www.enar.org/education/)** [Identifying Surrogate Markers in Real-world Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569).  
 
@@ -56,7 +60,7 @@ Jun 24, 2024. **[Invited talk at Harvard Medical School, Health Care Policy]** B
 
 May 16, 2024. **[Invited talk at ACIC]** Seattle, WA.  
 
-May 15, 2024. **[New paper]** [Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331) has been accepted at *ICML 2024*! [[Github]](https://github.com/yiliu1998/Multi-Source-Conformal)
+May 15, 2024. **[Acceptance]** [Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331) has been accepted at *ICML 2024*! [[Github]](https://github.com/yiliu1998/Multi-Source-Conformal)
 
 Apr 6, 2024. **[New paper]** [Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short) is published in the *Annals of Applied Statistics*!  
 
@@ -66,10 +70,6 @@ Mar 20, 2024. **[Invited talk at Northeastern University, Center for Signal Proc
 
 Feb 12, 2024. **[Invited talk at INRIA Causal Inference and Missing Data Group]** Paris, France (Virtual).
 
-Jan 8, 2024. **[Spring 2024 - Teaching HSCI 5151: Methods for Observational Studies 2]** Boston, MA.  
-
-Dec 13, 2023. **[NeurIPS 2023]** New Orleans, LA.  
-[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://arxiv.org/abs/2309.12600)  
 
 
 

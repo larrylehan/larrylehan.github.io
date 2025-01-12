@@ -1,0 +1,11 @@
+---
+title: "Causal Inference in Public Health Research (PHTH 6800)"
+collection: teaching
+type: "Instructor"
+permalink: /teaching/phth6800
+venue: "Northeastern University Department of Health Sciences"
+date: 2025-1-08
+location: "Boston, MA"
+---
+
+This is a first course in causal inference for PhD students, introducing causal diagrams and counterfactual theory to pose causal questions and evaluate causal claims in public health. Students will learn to design and analyze randomized and observational studies to answer causal questions, and understand and interpret complex causal studies, including instrumental variables, difference-in-differences, synthetic controls, regression discontinuity designs, dynamic treatment regimes, and proximal causal learning.

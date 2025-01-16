@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Jan 16, 2025. **[New preprint]** [COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials](https://arxiv.org/pdf/2501.08945) is available on Arxiv.  
+
 Jan 8, 2025. **[Teaching]** Spring 2025, teaching a PhD-level first course in causal inference, PHTH 6800: Causal Inference in Public Health Research, Boston, MA.  
 
 Jan 6, 2025. **[Publication]** [Robust Inference for Federated Meta-Learning](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246) has been published in *Journal of the American Statistical Association*.  

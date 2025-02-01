@@ -22,18 +22,18 @@ Here, I highlight some of my ongoing and recent work.
 **[On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365)**.   
 Arxiv (2024).  
 Gao C, Gilbert, P, **Han L.**  
-We devise a new framework to leverage surrogate outcomes to construct doubly robust and efficient prediction intervals for individual causal effects.  
+We devise a new framework to leverage surrogate outcomes to construct doubly robust and efficient prediction intervals for individual causal effects. [[R code]](https://github.com/Gaochenyin/SurrConformalDR)   
 
-**[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313)**.  
-Journal of the American Statistical Association (JASA), accepted (2025).    
+**[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)**.  
+Journal of the American Statistical Association, (2025).    
 *2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
 **Han L,** Hou J, Cho K, Duan R, Cai T.  
-We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity.
+We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity. [[R code]](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2025.2453249?scroll=top)  
 
-**[Robust Inference for Federated Meta-Learning](https://arxiv.org/abs/2301.00718)**.   
-Journal of the American Statistical Association (JASA), accepted (2025).  
+**[Robust Inference for Federated Meta-Learning](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246)**.   
+Journal of the American Statistical Association, (2025).  
 Guo Z, Li X, **Han L,** Cai T.  
-We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings.  
+We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings. [[R code]](https://github.com/celehs/RIFL)
 
 **[Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384)**.  
 NEJM Evidence (2024).  
@@ -43,7 +43,7 @@ In this editorial, I discuss the challenges of left truncation in survival analy
 **[Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331)**.  
 International Conference on Machine Learning (2024).  
 Liu Y, Levis A, Normand S-L, **Han L**.  
-We develop robust and efficient prediction intervals for missing outcomes in a target population leveraging multiple, potentially biased source populations.  [[Github]](https://github.com/yiliu1998/Multi-Source-Conformal)
+We develop robust and efficient prediction intervals for missing outcomes in a target population leveraging multiple, potentially biased source populations.  [[R code]](https://github.com/yiliu1998/Multi-Source-Conformal)
 
 **[Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)**.  
 Annals of Applied Statistics (2024).   
@@ -67,7 +67,7 @@ In this editorial, I discuss the drawbacks of conventional survival analysis bas
 The American Statistician (2023).  
 *2021 NESS Student Paper Award.*  
 **Han L,** Arfe A, Trippa L.  
-This paper develops a principled approach for sensitivity analyses of design parameters in the evaluation of competing trial designs.
+This paper develops a principled approach for sensitivity analyses of design parameters in the evaluation of competing trial designs. [[R code]](https://www.tandfonline.com/doi/suppl/10.1080/00031305.2023.2216253?scroll=top)  
 
 **[Identifying Surrogate Markers in Real-World Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569)**.  
 Statistics in Medicine (2022).   
@@ -78,7 +78,7 @@ We provide doubly robust estimation and inference for the proportion of treatmen
 **[Towards Optimal Use of Surrogate Markers to Improve Power](https://onlinelibrary.wiley.com/doi/10.1111/biom.13677)**.  
 Biometrics (2022).  
 Wang X, Parast L, **Han L,** Tian L, Cai T.  
-We propose a novel calibrated model fusion approach to optimally combine multiple surrogate markers to improve power.
+We propose a novel calibrated model fusion approach to optimally combine multiple surrogate markers to improve power.  [[R code]](https://github.com/laylaparast/CMFsurrogate)  
 
 
 

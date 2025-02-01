@@ -13,6 +13,15 @@ A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV
 
 <!-- <embed src="http://larrylehan.github.io/files/LarryHan_CV.pdf" width="650" height="1800" type='application/pdf'> -->
 
+# Appointments  
+---
+
+**Northeastern University**  
+Assistant Professor in Public Health and Health Sciences, Aug 2023-Present  
+
+**Fred Hutch Cancer Center**  
+Affiliate Investigator, Vaccine and Infectious Disease Division, Jan 2024-Present  
+
 
 # Education
 ---
@@ -38,6 +47,11 @@ Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgen
 
 # Service
 ---
+**New England Rare Disease Statistics (NERDS) Workshop Organizing Committee**.  
+(2025-Present).  
+
+**ASA Boston Pharmaceutical Statistics Symposium Scientific Committee**.  
+(2024-Present).  
 
 **Harvard Department of Biostatistics Student Committee**.  
 Co-President (2021-2023).
@@ -57,6 +71,7 @@ Organizing committee for safe and effective re-opening of campus during the COVI
 
 # Honors and Awards
 ---
+* Richard E. Clark Memorial Paper Award, Society of Thoracic Surgeons, 2025
 * ASA Student Paper Award, Health Policy Statistics Section, 2023
 * ICHPS Student Paper Travel Award, Health Policy Statistics Section, 2023
 * WNAR Best Oral Student Paper Presentation, 2022

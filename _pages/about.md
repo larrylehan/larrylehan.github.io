@@ -18,6 +18,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Jan 30, 2025. **[New preprint]** [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/pdf/2501.18798) is available on Arxiv.  
+
 Jan 16, 2025. **[New preprint]** [COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials](https://arxiv.org/pdf/2501.08945) is available on Arxiv.  
 
 Jan 8, 2025. **[Teaching]** Spring 2025, teaching a PhD-level first course in causal inference, PHTH 6800: Causal Inference in Public Health Research, Boston, MA.  

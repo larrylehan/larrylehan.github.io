@@ -16,6 +16,8 @@ I obtained my PhD in [Biostatistics at Harvard University](https://www.hsph.harv
 
 I enjoy playing golf, especially in my home state of North Carolina, reading history, especially biographies, and staying up-to-date with global affairs, especially US-China relations. Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeastern.edu). 
 
+**[I currently have openings for postdocs, PhD students, and research assistants! Feel free to contact me if you'd like to learn more about our research.]**
+
 
 ## Recent News  
 Jan 30, 2025. **[New preprint]** [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/pdf/2501.18798) is available on Arxiv.  

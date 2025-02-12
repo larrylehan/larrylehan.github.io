@@ -8,205 +8,102 @@ I develop statistical and machine learning methods with real-world applications 
 * Causal inference
 * Conformal inference
 * Data integration
-* Federated and transfer learning
-* Sensitivity analysis
 * Survival analysis
 
-Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications.
+Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications. Here, I highlight some of my research.  
 
-Here, I highlight some of my ongoing and recent work.
+## **[2025]**  
 
+Liu, Y., Levis, A. W., Zhu, K., Yang, S., Gilbert, P. B., & **Han, L.** (2025). Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [[arXiv]](https://arxiv.org/abs/2501.18798)   
 
-## Statistics and Machine Learning  
+Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials. [[arXiv]](https://arxiv.org/abs/2501.08945)   
 
-**[On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365)**.   
-Arxiv (2024).  
-Gao C, Gilbert, P, **Han L.**  
-We devise a new framework to leverage surrogate outcomes to construct doubly robust and efficient prediction intervals for individual causal effects. [[R code]](https://github.com/Gaochenyin/SurrConformalDR)   
-
-**[Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)**.  
-Journal of the American Statistical Association, (2025).    
-*2022 ASA Young Investigator Award of the Section on Statistics in Epidemiology.*  
-**Han L,** Hou J, Cho K, Duan R, Cai T.  
-We develop a novel framework for estimating causal effects in federated data settings. Our method guarantees no negative transfer and adaptively combines information from multiple sites for optimal efficiency in the presence of heterogeneity. [[R code]](https://www.tandfonline.com/doi/suppl/10.1080/01621459.2025.2453249?scroll=top)  
-
-**[Robust Inference for Federated Meta-Learning](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246)**.   
-Journal of the American Statistical Association, (2025).  
-Guo Z, Li X, **Han L,** Cai T.  
-We develop a novel methodology for multisource transfer learning, with applications in high-dimensional regression, causal inference, and multiple instrumental variable settings. [[R code]](https://github.com/celehs/RIFL)
-
-**[Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384)**.  
-NEJM Evidence (2024).  
-**Han L.**  
-In this editorial, I discuss the challenges of left truncation in survival analysis and highlight some modern methods to account for such challenges.  
-
-**[Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331)**.  
-International Conference on Machine Learning (2024).  
-Liu Y, Levis A, Normand S-L, **Han L**.  
-We develop robust and efficient prediction intervals for missing outcomes in a target population leveraging multiple, potentially biased source populations.  [[R code]](https://github.com/yiliu1998/Multi-Source-Conformal)
-
-**[Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)**.  
-Annals of Applied Statistics (2024).   
-*2023 ASA Student Paper Award of the Health Policy Statistics Section.*  
-*2022 WNAR Best Oral Student Paper Presentation.*   
-**Han L,** Li Y, Niknam B, Zubizarreta J.  
-We leverage federated multi-hospital data for hospital ranking and quality measurement purposes.  
-
-**[Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://openreview.net/pdf?id=M6UccKMFGl)**.  
-NeurIPS (2024).  
-**Han L,** Zhu S, Zubizarreta, J.  
-We provide multiply robust and privacy-preserving estimation of treatment effects under covariate mismatch and covariate shift for target populations of interest.  
-
-**[Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials](https://evidence.nejm.org/stoken/default+domain/UEWEJXD5NVZ9WK9JPQM5/full?redirectUri=/doi/full/10.1056/EVIDe2300142)**.  
-NEJM Evidence (2023).  
-**Han L.**   
-In this editorial, I discuss the drawbacks of conventional survival analysis based on the proportional hazards assumption and highlight some advantages of using the restricted mean survival time (RMST).
-
-
-**[Sensitivity Analyses of Clinical Trial Designs: Selecting Scenarios and Summarizing Operating Characteristics](https://www.tandfonline.com/doi/abs/10.1080/00031305.2023.2216253)**.   
-The American Statistician (2023).  
-*2021 NESS Student Paper Award.*  
-**Han L,** Arfe A, Trippa L.  
-This paper develops a principled approach for sensitivity analyses of design parameters in the evaluation of competing trial designs. [[R code]](https://www.tandfonline.com/doi/suppl/10.1080/00031305.2023.2216253?scroll=top)  
-
-**[Identifying Surrogate Markers in Real-World Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569)**.  
-Statistics in Medicine (2022).   
-*2021 John Van Ryzin Award, ENAR Distinguished Student Paper Award.*    
-**Han L,** Wang X, Cai T.  
-We provide doubly robust estimation and inference for the proportion of treatment effect on a true outcome that is explained by a surrogate marker in observational data settings.
-
-**[Towards Optimal Use of Surrogate Markers to Improve Power](https://onlinelibrary.wiley.com/doi/10.1111/biom.13677)**.  
-Biometrics (2022).  
-Wang X, Parast L, **Han L,** Tian L, Cai T.  
-We propose a novel calibrated model fusion approach to optimally combine multiple surrogate markers to improve power.  [[R code]](https://github.com/laylaparast/CMFsurrogate)  
+**Han, L.**, Hou, J., Cho, K., Duan, R., & Cai, T. (2025). Federated adaptive causal estimation (face) of target treatment effects. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)  
 
 
 
-## Electronic Health Records
+## **[2024]**  
 
-**[Stratifying risk for dementia onset using large-scale electronic health record data: a retrospective cohort study](https://alz-journals.onlinelibrary.wiley.com/doi/abs/10.1016/j.jalz.2019.09.084)**.  
-Alzheimer's and Dementia (2020).  
-McCoy TH Jr, **Han L,** Pellegrini AM, Tanzi RE, Berretta S, Perlis RH.
+Gao, C., Gilbert, P. B., & **Han, L.** (2024). On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [[arXiv]](https://arxiv.org/abs/2412.12365)   
 
-**[Is seniority of emergency physician associated with the weekend mortality effect? An exploratory analysis of electronic health records in the UK](https://emj.bmj.com/content/36/12/708.long)**.  
-Emergency Medicine Journal (2019).  
-**Han L,** Fine J, Robinson SM, Boyle AA, Freeman M, Scholtes S.
+Guo, Z., Li, X., **Han, L.**, & Cai, T. (2024). Robust inference for federated meta-learning. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246)  
 
-## Cardiology
+**Han, L.** (2024). Truncated, Not Forgotten—Handling Left Truncation in Time-to-Event Studies. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2400384)  
 
-**[Worldwide differences in primary prevention implantable cardioverter defibrillator utilization and outcomes in hypertrophic cardiomyopathy](https://academic.oup.com/eurheartj/advance-article-abstract/doi/10.1093/eurheartj/ehab598/6365852?redirectedFrom=fulltext)**.  
-European Heart Journal (2021).  
-Nauffal V, Marstrand, P, **Han L,** et al.
+Rubinstein, M., Agniel, D., **Han, L.**, Horvitz-Lennon, M., & Normand, S. L. (2024). Bounding causal effects with an unknown mixture of informative and non-informative censoring. [[arXiv]](https://arxiv.org/abs/2411.16902)   
 
-**[Clinical characteristics and outcomes in childhood-onset hypertrophic cardiomyopathy](https://academic.oup.com/eurheartj/advance-article-abstract/doi/10.1093/eurheartj/ehab148/6189026?redirectedFrom=fulltext)**.  
-European Heart Journal (2021).  
-Marston NA, **Han L,** Olivotto I, et al.
+Bather, J. R., **Han, L.**, Bennett, A. S., Elliott, L., & Goodman, M. S. (2024). Detecting univariate, bivariate, and overall effects of drug mixtures using Bayesian kernel machine regression. [[The American Journal of Drug and Alcohol Abuse]](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463)  
 
-**[Associations between female sex, sarcomeric variants, and clinical outcomes in hypertrophic cardiomyopathy](https://www.ahajournals.org/doi/abs/10.1161/CIRCGEN.120.003062)**.  
-Circulation: Genomic and Precision Medicine (2020).  
-Lakdawala NK, Olivotto I, Day SM, **Han L,** Ashley EA, Michels M, Ingles J, Semsarian C, Jacoby D, Jefferies JL, Colan SD, Pereira AC, Rossano JW, Wittekind S, Ware JS, Saberi S, Helms AS, Cirino AL, Leinwand LA, Seidman CE, Ho CY. 
+Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2024). A surrogate endpoint based provisional approval causal roadmap. [[arXiv]](https://arxiv.org/abs/2407.06350)   
 
-**[Hypertrophic Cardiomyopathy With Left Ventricular Systolic Dysfunction: Insights From the SHaRe Registry](https://www.ahajournals.org/doi/10.1161/CIRCULATIONAHA.119.044366?url_ver=Z39.88-2003&rfr_id=ori:rid:crossref.org&rfr_dat=cr_pub%20%200pubmed)**.   
-Circulation (2020).   
-Marstrand P, **Han L,** Day SM, Olivotto I, Ashley EA, Michels M, Pereira AC, Wittekind SG, Helms A, Saberi S, Jacoby D, Ware JS, Colan SD, Semsarian C, Ingles J, Lakdawala NK, Ho CY; SHaRe Investigators.  
+**Han, L.**, Li, Y., Niknam, B., & Zubizarreta, J. R. (2024). Privacy-preserving, communication-efficient, and target-flexible hospital quality measurement. [[The Annals of Applied Statistics]](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)    
 
-**[Association of Race With Disease Expression and Clinical Outcomes Among Patients With Hypertrophic Cardiomyopathy](https://jamanetwork.com/journals/jamacardiology/fullarticle/10.1001/jamacardio.2019.4638)**.  
-JAMA Cardiology (2020).   
-Eberly LA, Day SM, Ashley EA, Jacoby DL, Jefferies JL, Colan SD, Rossano JW, Semsarian C, Pereira AC, Olivotto I, Ingles J, Seidman CE, Channaoui N, Cirino AL, **Han L,** Ho CY, Lakdawala NK.
+Liu, Y., Levis, A., Normand, S. & **Han, L.** (2024). Multi-Source Conformal Inference Under Distribution Shift. [[Proceedings of the 41st International Conference on Machine Learning (ICML)]](https://proceedings.mlr.press/v235/liu24ag.html)   
 
-**[Ventricular tachycardia in cardiolaminopathy: Characteristics and considerations for device programming](https://www.heartrhythmjournal.com/article/S1547-5271(20)30457-4/fulltext)**.  
-Heart Rhythm (2020).   
-Sidhu K, **Han L,** Picard KCI, Tedrow UB, Lakdawala NK.
+**Han, L.**, Arfè, A., & Trippa, L. (2024). Sensitivity Analyses of Clinical Trial Designs: Selecting Scenarios and Summarizing Operating Characteristics. [[The American Statistician]](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2216253)  
 
-## Social Innovation
 
- **[Joint International Consensus Statement on Crowdsourcing Challenge Contests in Health and Medicine: Results of a Modified Delphi Process](https://bmjopen.bmj.com/content/11/11/e048699)**.  
- BMJ Open (2021).  
- **Han L,** Tang, W, Tiarney R, et al.
 
-**[Assessment of a Crowdsourcing Open Call for Approaches to University Community Engagement and Strategic Planning During COVID-19](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2779869)**.  
-JAMA Network Open (2021).   
-Day S, Li C, Hlatshwako TG, Abu-Hiljleh F, **Han L,** Deitelzweig C, Bayus B, Ramaswamy R, Wang W, Tucker JD.  
+## **[2023]**
 
-**[Social innovation in global health: sparking location action](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30070-X/fulltext)**.  
-Lancet Global Health (2020).  
-Halpaap BM, Tucker JD, Mathanga D, Juban N, Awor P, Saravia NG, **Han L,** de Villiers K, Kitamura M, Cuervo LG, Peeling R, Reeder JC.
+**Han, L.**, Shen, Z., & Zubizarreta, J. (2023). Multiply robust federated estimation of targeted average treatment effects. [[Advances in Neural Information Processing Systems 36 (NeurIPS)]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/def4492b32f0248a0e4d92cc46bbdaad-Abstract-Conference.html)  
 
-**[Pay-it-forward dual gonorrhea/chlamydia test uptake among men who have sex with men in China: A pragmatic, quasi-experimental study](linkinghub.elsevier.com/retrieve/pii/S1473-3099(18)30556-5)**.  
-Lancet Infectious Diseases (2019).  
-Li KT, Tang W, Wu D, Huang W, Wu F, Lee A, Feng H, Pan SW, **Han L,** Mak V, Yang L, Tucker JD.
 
-**[Gay apps for seeking sex partners in China: implications for MSM sexual health](https://link.springer.com/article/10.1007%2Fs10461-014-0994-6)**.  
-AIDS Behavior (2015).   
-Bien CH, Best JM, Muessig KE, Wei C, **Han L,** Tucker JD.
+**Han, L.** (2023). Breaking free from the hazard ratio: embracing the restricted mean survival time in clinical trials. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2300142)  
 
-**[HIV self-testing among online MSM in China: implications for expanding HIV testing among key populations](https://journals.lww.com/jaids/Fulltext/2014/10010/HIV_Self_Testing_Among_Online_MSM_in_China__.15.aspx)**.  
-JAIDS (2014).  
-**Han L,** Bien CH, Wei C, Muessig KE, Yang M, Liu F, Yang L, Meng G, Emch ME, Tucker JD.
+Wang, X., Parast, L., **Han, L.**, Tian, L., & Cai, T. (2023). Robust approach to combining multiple markers to improve surrogacy. [[Biometrics]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13677)  
 
-## Randomized Trials
+Zhang, H. G., Honerlaw, J. P., Maripuri, M., ..., 4CE Consortium (**Han, L.**),..., & Brat, G. A. (2023). Potential pitfalls in the use of real-world data for studying long COVID. [[Nature Medicine]](https://www.nature.com/articles/s41591-023-02274-y)  
 
-**[RTS, S/AS01 malaria vaccine efficacy is not modified by seasonal precipitation: results from a phase 3 randomized controlled trial in Malawi](https://www.nature.com/articles/s41598-017-07533-w)**.  
-Scientific Reports (2017).  
-**Han L,** Hudgens MG, Emch ME, Juliano JJ, Keeler C, Martinson F, Kamthunzi P, Tegha G, Lievens M, Hoffman IF.
+## **[2022]**  
 
-**[Crowdsourcing HIV test promotion videos: a noninferiority randomized controlled trial in China](https://academic.oup.com/cid/article-lookup/doi/10.1093/cid/ciw171)**.    
-Clinical Infectious Diseases (2016).   
-Tang W, **Han L,** Best J, Zhang Y, Mollan K, Kim J, Liu F, Hudgens M, Bayus B, Terris-Prestholt F, Galler S, Yang L, Peeling R, Volberding P, Ma B, Xu H, Yang B, Huang S, Fenton K, Wei C, Tucker JD.
+**Han, L.**, Wang, X., & Cai, T. (2022). Identifying surrogate markers in real‐world comparative effectiveness research. [[Statistics in Medicine]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569)  
 
-## Reviews and Practial Guides
+Day, S., Hlatshwako, T. G., Lloyd, A., **Han, L.**, Tang, W., Bayus, B., & Tucker, J. D. (2022). Evaluating and volunteering for crowdsourced interventions: Cross-sectional data on COVID-19 safety from a University Survey. [[Plos One]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275127)   
 
-**[Social innovation in health: Monitoring and evaluation framework](https://socialinnovationinhealth.org/monitoring-evaluation-framework/)**.  
-WHO/TDR (2021).   
-**Han L,** Chen E, Tucker J, et al (SIHI Working Group).
+Weber, G. M., Hong, C., Xia, Z., ..., 4CE Consortium (**Han, L.**), ..., & Brat, G. A. (2022). International comparisons of laboratory values from the 4CE collaborative to predict COVID-19 mortality. [NPJ Digital Medicine](https://www.nature.com/articles/s41746-022-00601-0)  
 
-**[Crowdsourcing in health and medical research: a systematic review](https://idpjournal.biomedcentral.com/articles/10.1186/s40249-020-0622-9)**.  
-Infectious Diseases of Poverty (2020).  
-Wang C, **Han L,** Stein G, Day S, Bien-Gund C, Mathews A, Ong JJ, Zhao PZ, Wei SF, Walker J, Chou R, Lee A, Chen A, Bayus B, Tucker JD.
+## **[2021]**  
 
-**[Crowdsourcing in health and health research: a practical guide](https://www.who.int/tdr/publications/year/2018/crowdsourcing-practical-guide/en/)**.  
-WHO/TDR (2018).  
-**Han L,** Chen A, Wei S, Ong J, Iwelunmor J, Tucker JD.
+**Han, L.**, Tang, W., Ritchwood, T., ... & Tucker, J. (2021). Joint international consensus statement on crowdsourcing challenge contests in health and medicine: results of a modified Delphi process. [[BMJ Open]](https://bmjopen.bmj.com/content/11/11/e048699.abstract)  
 
-**[Experiences using and organizing HIV self-testing: a global qualitative systematic review](https://pubmed.ncbi.nlm.nih.gov/29194120/)**.  
-AIDS (2018).  
-Qin Y, **Han L,** Babbitt A, Walker JS, Liu F, Thirumurthy H, Tang W, Tucker JD.
+Nauffal, V., Marstrand, P., **Han, L.**, ... & Ho, C. Y. (2021). Worldwide differences in primary prevention implantable cardioverter defibrillator utilization and outcomes in hypertrophic cardiomyopathy. [[European Heart Journal]](https://academic.oup.com/eurheartj/article/42/38/3932/6365852)  
 
-## Observational Studies
+Marston, N. A., **Han, L.**, Olivotto, I., ... & Ho, C. Y. (2021). Clinical characteristics and outcomes in childhood-onset hypertrophic cardiomyopathy. [[European Heart Journal]](https://academic.oup.com/eurheartj/article/42/20/1988/6189026)  
 
-**[HIV self-testing among men who have sex with men in China: a qualitative implementation research study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6844410/)**.  
-Journal of Virus Eradication (2020).  
-Liu F, Qin Y, Meng S, Zhang W, Tang W, **Han L,** Liu C, Zhang Y, Huang S, Zheng H, Yang B, Tucker JD.
+Lakdawala, N. K., Olivotto, I., Day, S. M., **Han, L.**, ... & Ho, C. Y. (2021). Associations between female sex, sarcomere variants, and clinical outcomes in hypertrophic cardiomyopathy. [[Circulation: Genomic and Precision Medicine]](https://www.ahajournals.org/doi/full/10.1161/CIRCGEN.120.003062)  
 
-**[MSM HIV testing following an online testing intervention in China](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-017-2546-y)**.  
-BMC Infectious Diseases (2017).  
-Wong NS, Tang W, **Han L,** Best J, Zhang Y, Huang S, Zheng H, Yang B, Wei C, Pan SW, Tucker JD.
+## **[2020]**  
 
-**[Prevalence and trends of HIV, syphilis, and HCV in migrant and resident men who have sex with men in Shandong, China: results from a serial cross-sectional study](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0170443)**.  
-PLoS One (2017).   
-Hu J, Gu X, Tao X, Qian Y, Babu GR, Wang G, Liao M, **Han L,** Kang D, Tang W.
+Wang, C., **Han, L.**, Stein, G., ... & Tucker, J. D. (2020). Crowdsourcing in health and medical research: a systematic review. [[Infectious Diseases of Poverty]](https://link.springer.com/article/10.1186/s40249-020-0622-9)  
 
-**[HIV test uptake among MSM in China: implications for enhanced HIV test promotion campaigns among key populations](https://www.tandfonline.com/doi/full/10.1080/17441692.2015.1134612)**.  
-Global Public Health (2017).  
-**Han L,** Wei C, Muessig KE, Bien CH, Meng G, Emch ME, Tucker JD.
+Sidhu, K., **Han, L.**, Picard, K. C., Tedrow, U. B., & Lakdawala, N. K. (2020). Ventricular tachycardia in cardiolaminopathy: characteristics and considerations for device programming. [[Heart Rhythm]](https://www.sciencedirect.com/science/article/pii/S1547527120304574?casa_token=vAVIteWOIBwAAAAA:trcePd0xw-VOEpFT4ZYunD_iK89OgwJygPpgCR4nchZY9LLFuHGYctVb1H0wPoqHcqlZ7Zs)  
 
-**[Community engagement in sexual health and uptake of HIV testing and syphilis testing among MSM in China: a cross‐sectional online survey](https://pubmed.ncbi.nlm.nih.gov/28406270/)**.  
-Journal of the International AIDS Society (2017).   
-Zhang TP, Liu C, **Han L,** Tang W, Mao J, Wong T, Zhang Y, Tang S, Yang B, Wei C, Tucker JD.
+Marstrand, P., **Han, L.**, Day, S. M., ... & SHaRe Investigators. (2020). Hypertrophic cardiomyopathy with left ventricular systolic dysfunction: insights from the SHaRe registry. [[Circulation]](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.119.044366)   
 
-**[Disclosure of sexual orientation to health professionals in China: results from an online cross‐sectional study](https://onlinelibrary.wiley.com/doi/full/10.7448/IAS.20.1.21416)**.   
-Journal of the International AIDS Society (2017).  
-Tang W, Mao J, Tang S, Liu C, Mollan K, Cao B, Wong T, Zhang Y, Hudgens M, Qin Y, **Han L,** Ma B, Yang B, Ma W, Wei C, Tucker JD; SESH Study Group.
+Halpaap, B. M., Tucker, J. D., Mathanga, D., ...**Han, L.**, ..., & Reeder, J. C. (2020). Social innovation in global health: sparking location action. [[The Lancet Global Health]](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30070-X/fulltext)  
 
-**[Sexual behaviors and HIV/syphilis testing among transgender individuals in China: implications for expanding HIV testing services](https://journals.lww.com/stdjournal/Fulltext/2015/05000/Sexual_Behaviors_and_HIV_Syphilis_Testing_Among.10.aspx)**.  
-Sexually Transmitted Diseases (2015).  
-Best J, Tang W, Zhang Y, **Han L,** Liu F, Huang S, Yang B, Wei C, Tucker JD.
+## **[2019]**  
 
-**[Organizational characteristics of HIV/syphilis testing services for men who have sex with men in South China: a social entrepreneurship analysis and implications for creating sustainable service models](https://bmcinfectdis.biomedcentral.com/articles/10.1186/s12879-014-0601-5)**.  
-BMC Infectious Diseases (2014).  
-Tucker JD, Muessig KE, Cui R, Bien CH, Lo EJ, Lee R, Wang K, **Han L,** Liu FY, Yang LG, Yang B, Larson H, Peeling RW.
+McCoy Jr, T. H., **Han, L.**, Pellegrini, A. M., Tanzi, R. E., Berretta, S., & Perlis, R. H. (2019). Stratifying risk for dementia onset using large-scale electronic health record data: a retrospective cohort study. [[Alzheimer's & Dementia]](https://www.sciencedirect.com/science/article/pii/S1552526019354846?casa_token=WVXPSoKq_HsAAAAA:epPjsrGBzVF6UW4gIQ2hqTkntzdVsmL1Fhoini6i1VU2AxysCPin5VlF6kk9V4u2Hzz7ivo)  
 
-**[Strategies for promoting HIV testing uptake: willingness to receive couple-based and collective HIV testing among a cross-sectional online sample of men who have sex with men in China](https://sti.bmj.com/content/90/6/469.long)**.  
-Sexually Transmitted Infections (2014).  
-Wei C, Muessig KE, Bien C, Yang L, Meng R, **Han L,** Yang M, Tucker JD.
+**Han, L.**, Fine, J., Robinson, S. M., Boyle, A. A., Freeman, M., & Scholtes, S. (2019). Is seniority of emergency physician associated with the weekend mortality effect? An exploratory analysis of electronic health records in the UK. [[Emergency Medicine Journal]](https://emj.bmj.com/content/36/12/708.abstract)   
+
+Li, K. T., Tang, W., Wu, D., ..., **Han, L.**, ... & Tucker, J. D. (2019). Pay-it-forward strategy to enhance uptake of dual gonorrhea and chlamydia testing among men who have sex with men in China: a pragmatic, quasi-experimental study. [[The Lancet Infectious Diseases]](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30556-5/abstract)  
+
+## **[2018 and earlier]**  
+
+Qin, Y., **Han, L.**, Babbitt, A., ... & Tucker, J. D. (2018). Experiences using and organizing HIV self-testing. [[AIDS]](https://journals.lww.com/aidsonline/fulltext/2018/01280/Experiences_using_and_organizing_HIV_self_testing.11.aspx.?casa_token=Y8t1K8t2Kn4AAAAA:hdAhXiYF_H000LberqWadO2zy7nDTm8wlgvJobzvnqMJPzUdmHcYdUXrQPO7rKUtFpbi8n_6fh4smUxlhA)  
+
+Wong, N. S., Tang, W., **Han, L.**, ... & Tucker, J. D. (2017). MSM HIV testing following an online testing intervention in China. [[BMC Infectious Diseases]](https://link.springer.com/article/10.1186/s12879-017-2546-y)  
+
+**Han, L.**, Hudgens, M. G., Emch, M. E., ... & Hoffman, I. F. (2017). RTS, S/AS01 malaria vaccine efficacy is not modified by seasonal precipitation: results from a phase 3 randomized controlled trial in Malawi. [[Scientific Reports]](https://www.nature.com/articles/s41598-017-07533-w)  
+
+**Han, L.**, Wei, C., Muessig, K. E., Bien, C. H., Meng, G., Emch, M. E., & Tucker, J. D. (2017). HIV test uptake among MSM in China: implications for enhanced HIV test promotion campaigns among key populations. [[Global Public Health]](https://www.tandfonline.com/doi/full/10.1080/17441692.2015.1134612)  
+
+Zhang, T. P., Liu, C., **Han, L.**, ... & Tucker, J. D. (2017). Community engagement in sexual health and uptake of HIV testing and syphilis testing among MSM in China: a cross‐sectional online survey. [[Journal of the International AIDS Society]](https://onlinelibrary.wiley.com/doi/10.7448/IAS.20.01/21372)  
+
+Tang, W., **Han, L.**, Best, J., ... & Tucker, J. D. (2016). Crowdsourcing HIV test promotion videos: a noninferiority randomized controlled trial in China. [[Clinical Infectious Diseases]](https://academic.oup.com/cid/article/62/11/1436/1745296)  
+
+**Han, L.**, Bien, C. H., Wei, C., ... & Tucker, J. D. (2014). HIV self-testing among online MSM in China: implications for expanding HIV testing among key populations. [[Journal of Acquired Immune Deficiency Syndromes]](https://journals.lww.com/jaids/fulltext/2014/10010/hiv_self_testing_among_online_msm_in_china_.15.aspx?casa_token=JFx5A_8AeLEAAAAA:zrNTNjLuHCURjAj13t45y4cpjWT9UsbUDGJpgaNZLEJv0tStvJo0XQIy7tS3ELj6M21NR9XhJhCMuzOikg)  
 

@@ -20,9 +20,15 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
+Apr 4, 2025. **[Invited talk at Department of Management Science and Statistics at The University of Texas at San Antonio (Virtual)]** On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [Slides].
+
+Mar 14, 2025. **[Invited talk at the University of Washington Biostatistics Working Group (Virtual)]** Yi Liu will present our work, Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [Slides].  
+
+Mar 14, 2025. **[Invited talk at the ASA Covariate Adjustment Working Group Journal Club]** Yi Liu will present our work, COADVISE: Covariate Adjustment with Variable Selection in RCTs. [Slides].   
+
 Jan 30, 2025. **[New preprint]** [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/pdf/2501.18798) is available on Arxiv.  
 
-Jan 16, 2025. **[New preprint]** [COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials](https://arxiv.org/pdf/2501.08945) is available on Arxiv.  
+Jan 16, 2025. **[New preprint]** [COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials](https://arxiv.org/pdf/2501.08945) is available on Arxiv.  
 
 Jan 8, 2025. **[Teaching]** Spring 2025, teaching a PhD-level first course in causal inference, PHTH 6800: Causal Inference in Public Health Research, Boston, MA.  
 
@@ -30,11 +36,11 @@ Jan 6, 2025. **[Publication]** [Robust Inference for Federated Meta-Learning](ht
 
 Jan 5, 2025. **[Acceptance]** [Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313) has been accepted at *Journal of the American Statistical Association*.  
 
-Dec 17, 2024. **[New preprint]** [On the role of surrogates in conformal inference of individual causal effects](https://arxiv.org/pdf/2412.12365) is available on Arxiv.  
+Dec 17, 2024. **[New preprint]** [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) is available on Arxiv.  
 
 Dec 17, 2024. **[Invited talk at ICSDS]** Nice, France.  
 
-Nov 27, 2024. **[New preprint]** [Bounding causal effects with an unknown mixture of informative and non-informative censoring](https://arxiv.org/pdf/2411.16902) is available on Arxiv.  
+Nov 27, 2024. **[New preprint]** [Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Censoring](https://arxiv.org/pdf/2411.16902) is available on Arxiv.  
 
 Nov 26, 2024. **[Publication]** [Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384) is published in *NEJM Evidence*.    
 
@@ -52,7 +58,7 @@ Aug 5-8, 2024. **[JSM 2024]** Presenting in the session *New methods for integra
 
 Jul 24-26, 2024. **[ICML 2024]** Presenting [Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331) in Vienna, Austria.  
 
-Jul 23, 2024. **[Publication]** [Detecting univariate, bivariate, and overall effects of drug mixtures using Bayesian kernel machine regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*.
+Jul 23, 2024. **[Publication]** [Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures using Bayesian Kernel Machine Regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*.
 
 Jul 18, 2024. **[[WebENAR: Van Ryzin Award Highlights]](https://www.enar.org/education/)** [Identifying Surrogate Markers in Real-world Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569).  
 
@@ -74,7 +80,7 @@ Mar 21, 2024. **[New preprint]** [A Transfer Learning Causal Approach to Evaluat
 
 Mar 20, 2024. **[Invited talk at Northeastern University, Center for Signal Processing, Imaging, Reasoning, and Learning]** Boston, MA.  
 
-Feb 12, 2024. **[Invited talk at INRIA Causal Inference and Missing Data Group]** Paris, France (Virtual).
+
 
 
 

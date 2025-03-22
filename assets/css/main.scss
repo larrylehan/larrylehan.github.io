@@ -10,6 +10,11 @@
  *
 */
 
+// Override defaults *before* importing Minimal Mistakes’ variables
+$base-font-size: 0.875rem;            // default is 1rem (~16px); 0.875rem ≈ 14px
+$base-font-family: 'Open Sans', sans-serif !default;
+$headings-font-family: 'Merriweather', serif !default;
+
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";

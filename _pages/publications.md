@@ -16,27 +16,27 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 Liu, Y., Levis, A. W., Zhu, K., Yang, S., Gilbert, P. B., & **Han, L.** (2025). Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [[arXiv]](https://arxiv.org/abs/2501.18798)   
 
-Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection and Missing Data Imputation in Randomized Controlled Trials. [[arXiv]](https://arxiv.org/abs/2501.08945)   
+Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials. [[arXiv]](https://arxiv.org/abs/2501.08945)   
 
-**Han, L.**, Hou, J., Cho, K., Duan, R., & Cai, T. (2025). Federated adaptive causal estimation (face) of target treatment effects. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)  
+**Han, L.**, Hou, J., Cho, K., Duan, R., & Cai, T. (2025). Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)  
+
+Guo, Z., Li, X., **Han, L.**, & Cai, T. (2024). Robust Inference for Federated Meta-Learning. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246)  
 
 
 
 ## **[2024]**  
 
-Gao, C., Gilbert, P. B., & **Han, L.** (2024). On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [[arXiv]](https://arxiv.org/abs/2412.12365)   
-
-Guo, Z., Li, X., **Han, L.**, & Cai, T. (2024). Robust inference for federated meta-learning. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246)  
+Gao, C., Gilbert, P. B., & **Han, L.** (2024). On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [[arXiv]](https://arxiv.org/abs/2412.12365)    
 
 **Han, L.** (2024). Truncated, Not Forgotten—Handling Left Truncation in Time-to-Event Studies. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2400384)  
 
-Rubinstein, M., Agniel, D., **Han, L.**, Horvitz-Lennon, M., & Normand, S. L. (2024). Bounding causal effects with an unknown mixture of informative and non-informative censoring. [[arXiv]](https://arxiv.org/abs/2411.16902)   
+Rubinstein, M., Agniel, D., **Han, L.**, Horvitz-Lennon, M., & Normand, S. L. (2024). Bounding Causal Effects with an Unknown Mixture of Informative and Non-Informative Censoring. [[arXiv]](https://arxiv.org/abs/2411.16902)   
 
-Bather, J. R., **Han, L.**, Bennett, A. S., Elliott, L., & Goodman, M. S. (2024). Detecting univariate, bivariate, and overall effects of drug mixtures using Bayesian kernel machine regression. [[The American Journal of Drug and Alcohol Abuse]](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463)  
+Bather, J. R., **Han, L.**, Bennett, A. S., Elliott, L., & Goodman, M. S. (2024). Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures using Bayesian Kernel Machine Regression. [[The American Journal of Drug and Alcohol Abuse]](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463)  
 
-Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2024). A surrogate endpoint based provisional approval causal roadmap. [[arXiv]](https://arxiv.org/abs/2407.06350)   
+Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2024). A Surrogate Endpoint Based Provisional Approval Causal Roadmap. [[arXiv]](https://arxiv.org/abs/2407.06350)   
 
-**Han, L.**, Li, Y., Niknam, B., & Zubizarreta, J. R. (2024). Privacy-preserving, communication-efficient, and target-flexible hospital quality measurement. [[The Annals of Applied Statistics]](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)    
+**Han, L.**, Li, Y., Niknam, B., & Zubizarreta, J. R. (2024). Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement. [[The Annals of Applied Statistics]](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)    
 
 Liu, Y., Levis, A., Normand, S. & **Han, L.** (2024). Multi-Source Conformal Inference Under Distribution Shift. [[Proceedings of the 41st International Conference on Machine Learning (ICML)]](https://proceedings.mlr.press/v235/liu24ag.html)   
 
@@ -46,14 +46,15 @@ Liu, Y., Levis, A., Normand, S. & **Han, L.** (2024). Multi-Source Conformal Inf
 
 ## **[2023]**
 
-**Han, L.**, Shen, Z., & Zubizarreta, J. (2023). Multiply robust federated estimation of targeted average treatment effects. [[Advances in Neural Information Processing Systems 36 (NeurIPS)]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/def4492b32f0248a0e4d92cc46bbdaad-Abstract-Conference.html)  
+**Han, L.**, Shen, Z., & Zubizarreta, J. (2023). Multiply Robust Federated Estimation of Targeted Average Treatment Effects. [[Advances in Neural Information Processing Systems 36 (NeurIPS)]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/def4492b32f0248a0e4d92cc46bbdaad-Abstract-Conference.html)  
 
 
-**Han, L.** (2023). Breaking free from the hazard ratio: embracing the restricted mean survival time in clinical trials. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2300142)  
+**Han, L.** (2023). Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2300142)  
 
-Wang, X., Parast, L., **Han, L.**, Tian, L., & Cai, T. (2023). Robust approach to combining multiple markers to improve surrogacy. [[Biometrics]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13677)  
+Wang, X., Parast, L., **Han, L.**, Tian, L., & Cai, T. (2023). Robust Approach to Combining Multiple Markers to Improve Surrogacy. [[Biometrics]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13677)  
 
-Zhang, H. G., Honerlaw, J. P., Maripuri, M., ..., 4CE Consortium (**Han, L.**),..., & Brat, G. A. (2023). Potential pitfalls in the use of real-world data for studying long COVID. [[Nature Medicine]](https://www.nature.com/articles/s41591-023-02274-y)  
+Zhang, H. G., Honerlaw, J. P., Maripuri, M., ..., 4CE Consortium (**Han, L.**),..., & Brat, G. A. (2023). Potential Pitfalls in the Use of Real-World Data for Studying Long COVID. [[Nature Medicine]](https://www.nature.com/articles/s41591-023-02274-y)  
+
 
 ## **[2022]**  
 

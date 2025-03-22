@@ -20,11 +20,11 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
-Apr 4, 2025. **[Invited talk at Department of Management Science and Statistics at The University of Texas at San Antonio (Virtual)]** On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [Slides].
+Apr 4, 2025. **[Invited talk at Department of Management Science and Statistics at University of Texas at San Antonio (Virtual)]** On the Role of Surrogates in Conformal Inference of Individual Causal Effects. 
 
-Mar 14, 2025. **[Invited talk at the University of Washington Biostatistics Working Group (Virtual)]** Yi Liu will present our work, Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [Slides].  
+Mar 14, 2025. **[Invited talk at University of Washington Biostatistics Working Group (Virtual)]** Yi Liu will present our work, Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift.
 
-Mar 14, 2025. **[Invited talk at the ASA Covariate Adjustment Working Group Journal Club]** Yi Liu will present our work, COADVISE: Covariate Adjustment with Variable Selection in RCTs. [Slides].   
+Mar 14, 2025. **[Invited talk at the ASA Covariate Adjustment Working Group Journal Club]** Yi Liu will present our work, COADVISE: Covariate Adjustment with Variable Selection in RCTs.   
 
 Jan 30, 2025. **[New preprint]** [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/pdf/2501.18798) is available on Arxiv.  
 

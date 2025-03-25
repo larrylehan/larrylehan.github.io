@@ -20,11 +20,11 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent News  
-Apr 4, 2025. **[Invited talk]** I will present ``On the Role of Surrogates in Conformal Inference of Individual Causal Effects" at the Department of Management Science and Statistics at the University of Texas at San Antonio. 
+Apr 4, 2025. **[Invited talk]** I will present "On the Role of Surrogates in Conformal Inference of Individual Causal Effects" at the Department of Management Science and Statistics at the University of Texas at San Antonio. 
 
-Mar 14, 2025. **[Invited talk]** Yi Liu will present our work, ``Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift" at the University of Washington Biostatistics Working Group.
+Mar 14, 2025. **[Invited talk]** Yi Liu will present our work, "Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift" at the University of Washington Biostatistics Working Group.
 
-Mar 14, 2025. **[Invited talk]** Yi Liu will present our work, ``COADVISE: Covariate Adjustment with Variable Selection in RCTs" at the ASA Covariate Adjustment Working Group Journal Club.   
+Mar 14, 2025. **[Invited talk]** Yi Liu will present our work, "COADVISE: Covariate Adjustment with Variable Selection in RCTs" at the ASA Covariate Adjustment Working Group Journal Club.   
 
 Jan 30, 2025. **[New preprint]** [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/pdf/2501.18798) is available on Arxiv.  
 
@@ -38,7 +38,7 @@ Jan 5, 2025. **[Acceptance]** [Federated Adaptive Causal Estimation (FACE) of Ta
 
 Dec 17, 2024. **[New preprint]** [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) is available on Arxiv.  
 
-Dec 17, 2024. **[Invited talk]** I will present ``On the Role of Surrogates in Conformal Inference of Individual Causal Effects" at the International Conference on Statistics and Data Science (ICSDS) in Nice, France.  
+Dec 17, 2024. **[Invited talk]** I will present "On the Role of Surrogates in Conformal Inference of Individual Causal Effects" at the International Conference on Statistics and Data Science (ICSDS) in Nice, France.  
 
 Nov 27, 2024. **[New preprint]** [Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Censoring](https://arxiv.org/pdf/2411.16902) is available on Arxiv.  
 
@@ -48,11 +48,11 @@ Nov 21, 2024. **[Talk]** I will present at the UPenn Center for Causal Inference
 
 Nov 17, 2024. **[Acceptance]** [Robust Inference for Federated Meta-Learning](https://arxiv.org/pdf/2301.00718) has been accepted at *Journal of the American Statistical Association*.  
 
-Nov 13, 2024. **[Talk]** I will present at Duan Lab in the Department of Biostatistics at Harvard University.
+Nov 13, 2024. **[Talk]** I will present at the Duan Lab in the Department of Biostatistics at Harvard University.
 
 Nov 7-8, 2024. **[Invited talk]** I will present at the Forum on the Integration of Observational and Randomized Data (FIORD) in Bethesda, MD.  
 
-Sep 10, 2024. **[Invited talk]** I will present ``Multi-Source Conformal Inference Under Distribution Shift" at the Department of Biostatistics at NYU Langone. 
+Sep 10, 2024. **[Invited talk]** I will present "Multi-Source Conformal Inference Under Distribution Shift" at the Department of Biostatistics at NYU Langone. 
 
 Aug 5-8, 2024. **[JSM 2024]** I will present in the session *New methods for integrative and adaptive analysis* in Portland, OR.  
 

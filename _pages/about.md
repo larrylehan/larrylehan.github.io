@@ -10,7 +10,7 @@ redirect_from:
 
 I am an Assistant Professor in the [Department of Public Health and Health Sciences](https://bouve.northeastern.edu/directory/larry-han/) at Northeastern University and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html).
 
-[My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical and machine learning methods to leverage real-world data to improve decision-making in public health and clinical medicine. This involves designing robust, efficient, and targeted estimators for causal effects using large-scale data generated from electronic health records and clinical trial data. Active areas of research include causal inference, conformal inference, data integration, federated and transfer learning, and sensitivity analysis.
+[My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical and machine learning methods to leverage real-world data to improve decision-making in public health and clinical medicine. This involves designing robust, efficient, and targeted estimators for causal effects using large-scale data generated from electronic health records and clinical trial data. Active areas of research include causal inference, conformal inference, data integration, federated learning, and survival analysis.
 
 I obtained my PhD in [Biostatistics at Harvard University](https://www.hsph.harvard.edu/biostatistics/), advised by [Professor Tianxi Cai](https://www.hsph.harvard.edu/profile/tianxi-cai/) and [Professor Lorenzo Trippa](https://www.hsph.harvard.edu/profile/lorenzo-trippa/). I completed a postdoctoral fellowship in [Health Care Policy at Harvard Medical School](https://hcp.hms.harvard.edu/about), advised by [Professor Sharon-Lise Normand](https://hcp.hms.harvard.edu/people/sharon-lise-normand). I received an AM in Biostatistics from Harvard, an MPhil in Healthcare Operations from the University of Cambridge, an MA in Global Affairs from Tsinghua University, and a BS in Public Health and Biostatistics from UNC - Chapel Hill.
 
@@ -19,7 +19,9 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 **[I currently have openings for postdocs, PhD students, and research assistants! Feel free to contact me if you'd like to learn more about our research.]**
 
 
-## Recent News  
+## Recent and Upcoming News  
+Apr 10, 2025. **[Discussant]** I will be the discussant for [Elias Bareinboim's talk "Towards Causal Artificial Intelligence"](https://datascience.harvard.edu/calendar_event/causal-seminar-elias-bareinboim/?mc_cid=069bf2711b&mc_eid=40fc9df331) at the Harvard Data Science Initiative Causal Seminar.  
+
 Apr 4, 2025. **[Invited talk]** I will present "On the Role of Surrogates in Conformal Inference of Individual Causal Effects" at the Department of Management Science and Statistics at the University of Texas at San Antonio. 
 
 Mar 14, 2025. **[Invited talk]** Yi Liu will present our work, "Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift" at the University of Washington Biostatistics Working Group.

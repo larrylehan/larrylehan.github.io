@@ -20,7 +20,7 @@ Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment
 
 **Han, L.**, Hou, J., Cho, K., Duan, R., & Cai, T. (2025). Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)  
 
-Guo, Z., Li, X., **Han, L.**, & Cai, T. (2024). Robust Inference for Federated Meta-Learning. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246)  
+Guo, Z., Li, X., **Han, L.**, & Cai, T. (2025). Robust Inference for Federated Meta-Learning. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246)  
 
 
 

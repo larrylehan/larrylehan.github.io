@@ -20,6 +20,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent and Upcoming News  
+May 1, 2025. **[Talk]** I will present "Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift" at the UPenn Center for Causal Inference seminar. 
+
 Apr 10, 2025. **[Discussant]** I will be the discussant for [Elias Bareinboim's talk "Towards Causal Artificial Intelligence"](https://datascience.harvard.edu/calendar_event/causal-seminar-elias-bareinboim/?mc_cid=069bf2711b&mc_eid=40fc9df331) at the Harvard Data Science Initiative Causal Seminar.  
 
 Apr 4, 2025. **[Invited talk]** I will present "On the Role of Surrogates in Conformal Inference of Individual Causal Effects" at the Department of Management Science and Statistics at the University of Texas at San Antonio. 

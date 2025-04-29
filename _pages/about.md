@@ -20,6 +20,8 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 
 
 ## Recent and Upcoming News  
+May 5, 2025. **[Methods Workshop]** I am giving a [Methods Workshop](https://heller.brandeis.edu/spire-center/activities/index.html) at the Brandeis-Harvard SPIRE Center titled "Multi-Source Causal Inference Leveraging Transfer Learning".  
+
 May 1, 2025. **[Talk]** I will present "Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift" at the UPenn Center for Causal Inference seminar. 
 
 Apr 10, 2025. **[Discussant]** I will be the discussant for [Elias Bareinboim's talk "Towards Causal Artificial Intelligence"](https://datascience.harvard.edu/calendar_event/causal-seminar-elias-bareinboim/?mc_cid=069bf2711b&mc_eid=40fc9df331) at the Harvard Data Science Initiative Causal Seminar.  

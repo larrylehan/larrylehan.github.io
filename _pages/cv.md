@@ -45,32 +45,27 @@ BS in Public Health, Biostatistics, 2016
 Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgens-phd/)
 
 
-# Service
+# Service (current)  
 ---
+**ASA Council of Sections Representative, Statistics in Epidemiology Section**.  
+(2026-2028).  
+
 **New England Rare Disease Statistics (NERDS) Workshop Organizing Committee**.  
 (2025-Present).  
 
 **ASA Boston Pharmaceutical Statistics Symposium Scientific Committee**.  
 (2024-Present).  
 
-**Harvard Department of Biostatistics Student Committee**.  
-Co-President (2021-2023).
+**Associate Editor, Health Services and Outcomes Research Methodology**.  
+(2024-Present).  
 
-**Harvard Department of Biostatistics Diversity, Inclusion, and Equity Committee**.  
-PhD Student Representative (2020-2023).
-
-**Harvard Department of Biostatistics Mental Health Working Group**.  
-Lead for promotion of department community at a distance (2020-2023).
-
-**Harvard Graduate ABSK**.    
-President (2019-2023).
-
-**University of North Carolina -- Carolina Collective**.   
-Organizing committee for safe and effective re-opening of campus during the COVID-19 era (2020-2023).
+**Associate Editor, Journal of Causal Inference**.  
+(2023-Present).  
   
 
 # Honors and Awards
 ---
+* IMS New Researcher Travel Award, 2025  
 * Richard E. Clark Memorial Paper Award, Society of Thoracic Surgeons, 2025
 * ASA Student Paper Award, Health Policy Statistics Section, 2023
 * ICHPS Student Paper Travel Award, Health Policy Statistics Section, 2023

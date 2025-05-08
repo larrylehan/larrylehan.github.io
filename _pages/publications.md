@@ -6,13 +6,17 @@ author_profile: true
 ---
 I develop statistical and machine learning methods with real-world applications in the areas of:
 * Causal inference
-* Conformal inference
+* Conformal inference 
 * Data integration
+* Federated learning  
 * Survival analysis
 
 Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications. Here, I highlight some of my research.  
 
 ## **[2025]**  
+**Han, L.** (2025). Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings. [JAMA Network Open]  
+
+Gao, C., Gilbert, P.B., & **Han, L.** (2025). Bridging Fairness and Efficiency in Conformal Inference.  [International Conference on Machine Learning (ICML)]  
 
 Liu, Y., Levis, A. W., Zhu, K., Yang, S., Gilbert, P. B., & **Han, L.** (2025). Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [[arXiv]](https://arxiv.org/abs/2501.18798)   
 
@@ -38,7 +42,7 @@ Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2024). A Surrogate Endpoi
 
 **Han, L.**, Li, Y., Niknam, B., & Zubizarreta, J. R. (2024). Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement. [[The Annals of Applied Statistics]](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)    
 
-Liu, Y., Levis, A., Normand, S. & **Han, L.** (2024). Multi-Source Conformal Inference Under Distribution Shift. [[Proceedings of the 41st International Conference on Machine Learning (ICML)]](https://proceedings.mlr.press/v235/liu24ag.html)   
+Liu, Y., Levis, A., Normand, S. & **Han, L.** (2024). Multi-Source Conformal Inference Under Distribution Shift. [[International Conference on Machine Learning (ICML)]](https://proceedings.mlr.press/v235/liu24ag.html)   
 
 **Han, L.**, Arfè, A., & Trippa, L. (2024). Sensitivity Analyses of Clinical Trial Designs: Selecting Scenarios and Summarizing Operating Characteristics. [[The American Statistician]](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2216253)  
 

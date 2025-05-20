@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor in the [Department of Public Health and Health Sciences](https://bouve.northeastern.edu/directory/larry-han/) at Northeastern University and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html).
+I am an Assistant Professor of Biostatistics in the [Department of Public Health and Health Sciences](https://bouve.northeastern.edu/directory/larry-han/) at Northeastern University and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html).
 
 [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical and machine learning methods to leverage real-world data to improve decision-making in public health and clinical medicine. This involves designing robust, efficient, and targeted estimators for causal effects using large-scale data generated from electronic health records and clinical trial data. Active areas of research include causal inference, conformal inference, data integration, federated learning, and survival analysis.
 

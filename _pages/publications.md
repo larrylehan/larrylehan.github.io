@@ -13,7 +13,8 @@ I develop statistical and machine learning methods with real-world applications 
 
 Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications. Here, I highlight some of my research.  
 
-## **[2025]**  
+## **[2025]**
+---
 * **Han, L.** (2025). Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings. [JAMA Network Open]
 
 * Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2025). A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development. [[Biostatistics]](https://arxiv.org/abs/2407.06350)   
@@ -31,7 +32,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 
 ## **[2024]**  
-
+---
 * Gao, C., Gilbert, P. B., & **Han, L.** (2024). On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [[arXiv]](https://arxiv.org/abs/2412.12365)    
 
 * **Han, L.** (2024). Truncated, Not Forgotten—Handling Left Truncation in Time-to-Event Studies. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2400384)  
@@ -50,7 +51,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 
 ## **[2023]**
-
+---
 * **Han, L.**, Shen, Z., & Zubizarreta, J. (2023). Multiply Robust Federated Estimation of Targeted Average Treatment Effects. [[Advances in Neural Information Processing Systems 36 (NeurIPS)]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/def4492b32f0248a0e4d92cc46bbdaad-Abstract-Conference.html)  
 
 
@@ -62,7 +63,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 
 ## **[2022]**  
-
+---
 * **Han, L.**, Wang, X., & Cai, T. (2022). Identifying surrogate markers in real‐world comparative effectiveness research. [[Statistics in Medicine]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569)  
 
 * Day, S., Hlatshwako, T. G., Lloyd, A., **Han, L.**, Tang, W., Bayus, B., & Tucker, J. D. (2022). Evaluating and volunteering for crowdsourced interventions: Cross-sectional data on COVID-19 safety from a University Survey. [[Plos One]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275127)   
@@ -70,7 +71,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 * Weber, G. M., Hong, C., Xia, Z., ..., 4CE Consortium (**Han, L.**), ..., & Brat, G. A. (2022). International comparisons of laboratory values from the 4CE collaborative to predict COVID-19 mortality. [NPJ Digital Medicine](https://www.nature.com/articles/s41746-022-00601-0)  
 
 ## **[2021]**  
-
+---
 * **Han, L.**, Tang, W., Ritchwood, T., ... & Tucker, J. (2021). Joint international consensus statement on crowdsourcing challenge contests in health and medicine: results of a modified Delphi process. [[BMJ Open]](https://bmjopen.bmj.com/content/11/11/e048699.abstract)  
 
 * Nauffal, V., Marstrand, P., **Han, L.**, ... & Ho, C. Y. (2021). Worldwide differences in primary prevention implantable cardioverter defibrillator utilization and outcomes in hypertrophic cardiomyopathy. [[European Heart Journal]](https://academic.oup.com/eurheartj/article/42/38/3932/6365852)  
@@ -80,7 +81,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 * Lakdawala, N. K., Olivotto, I., Day, S. M., **Han, L.**, ... & Ho, C. Y. (2021). Associations between female sex, sarcomere variants, and clinical outcomes in hypertrophic cardiomyopathy. [[Circulation: Genomic and Precision Medicine]](https://www.ahajournals.org/doi/full/10.1161/CIRCGEN.120.003062)  
 
 ## **[2020]**  
-
+---
 * Wang, C., **Han, L.**, Stein, G., ... & Tucker, J. D. (2020). Crowdsourcing in health and medical research: a systematic review. [[Infectious Diseases of Poverty]](https://link.springer.com/article/10.1186/s40249-020-0622-9)  
 
 * Sidhu, K., **Han, L.**, Picard, K. C., Tedrow, U. B., & Lakdawala, N. K. (2020). Ventricular tachycardia in cardiolaminopathy: characteristics and considerations for device programming. [[Heart Rhythm]](https://www.sciencedirect.com/science/article/pii/S1547527120304574?casa_token=vAVIteWOIBwAAAAA:trcePd0xw-VOEpFT4ZYunD_iK89OgwJygPpgCR4nchZY9LLFuHGYctVb1H0wPoqHcqlZ7Zs)  
@@ -90,7 +91,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 * Halpaap, B. M., Tucker, J. D., Mathanga, D., ...**Han, L.**, ..., & Reeder, J. C. (2020). Social innovation in global health: sparking location action. [[The Lancet Global Health]](https://www.thelancet.com/journals/langlo/article/PIIS2214-109X(20)30070-X/fulltext)  
 
 ## **[2019]**  
-
+---
 * McCoy Jr, T. H., **Han, L.**, Pellegrini, A. M., Tanzi, R. E., Berretta, S., & Perlis, R. H. (2019). Stratifying risk for dementia onset using large-scale electronic health record data: a retrospective cohort study. [[Alzheimer's & Dementia]](https://www.sciencedirect.com/science/article/pii/S1552526019354846?casa_token=WVXPSoKq_HsAAAAA:epPjsrGBzVF6UW4gIQ2hqTkntzdVsmL1Fhoini6i1VU2AxysCPin5VlF6kk9V4u2Hzz7ivo)  
 
 * **Han, L.**, Fine, J., Robinson, S. M., Boyle, A. A., Freeman, M., & Scholtes, S. (2019). Is seniority of emergency physician associated with the weekend mortality effect? An exploratory analysis of electronic health records in the UK. [[Emergency Medicine Journal]](https://emj.bmj.com/content/36/12/708.abstract)   
@@ -98,7 +99,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 * Li, K. T., Tang, W., Wu, D., ..., **Han, L.**, ... & Tucker, J. D. (2019). Pay-it-forward strategy to enhance uptake of dual gonorrhea and chlamydia testing among men who have sex with men in China: a pragmatic, quasi-experimental study. [[The Lancet Infectious Diseases]](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30556-5/abstract)  
 
 ## **[2018 and earlier]**  
-
+---
 * Qin, Y., **Han, L.**, Babbitt, A., ... & Tucker, J. D. (2018). Experiences using and organizing HIV self-testing. [[AIDS]](https://journals.lww.com/aidsonline/fulltext/2018/01280/Experiences_using_and_organizing_HIV_self_testing.11.aspx.?casa_token=Y8t1K8t2Kn4AAAAA:hdAhXiYF_H000LberqWadO2zy7nDTm8wlgvJobzvnqMJPzUdmHcYdUXrQPO7rKUtFpbi8n_6fh4smUxlhA)  
 
 * Wong, N. S., Tang, W., **Han, L.**, ... & Tucker, J. D. (2017). MSM HIV testing following an online testing intervention in China. [[BMC Infectious Diseases]](https://link.springer.com/article/10.1186/s12879-017-2546-y)  

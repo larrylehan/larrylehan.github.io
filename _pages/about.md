@@ -19,7 +19,7 @@ I enjoy playing golf, especially in my home state of North Carolina, reading his
 **[I currently have openings for postdocs, PhD students, and research assistants! Feel free to contact me if you'd like to learn more about our research.]**
 
 
-## Recent and Upcoming News  
+## Recent News and Upcoming Events  
 May 14, 2025. **[Talk]** I will present "On the Role of Surrogates in Conformal Inference of Individual Causal Effects" at [ACIC 2025](https://sci-info.org/annual-meeting/program/agenda/) in Detroit, Michigan.  
 
 May 5, 2025. **[Methods Workshop]** I am giving a [Methods Workshop](https://heller.brandeis.edu/spire-center/activities/index.html) at the Brandeis-Harvard SPIRE Center titled "Multi-Source Causal Inference Leveraging Transfer Learning".  

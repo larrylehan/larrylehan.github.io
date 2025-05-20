@@ -20,7 +20,55 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 
 
 ## Talks  
-May 14-17, 2024. **[Oral at ACIC]** Seattle, WA.  
+
+### 2025  
+May 14, 2025. **[Oral at ACIC 2025]** Detroit, MI.  
+I will present [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) at [ACIC 2025](https://sci-info.org/annual-meeting/program/agenda/).  
+
+May 5, 2025. **[Methods Workshop at the Brandeis-Harvard SPIRE Center ]** Virtual.  
+[Multi-Source Causal Inference Leveraging Transfer Learning](https://heller.brandeis.edu/spire-center/activities/index.html).   
+
+May 1, 2025. **[Talk at the UPenn Center for Causal Inference seminar]** Virtual.  
+[Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  
+
+Apr 10, 2025. **[Invited discussant at the Harvard Data Science Initiative Causal Seminar]**  Boston, MA.  
+[Elias Bareinboim's talk "Towards Causal Artificial Intelligence"](https://datascience.harvard.edu/calendar_event/causal-seminar-elias-bareinboim/?mc_cid=069bf2711b&mc_eid=40fc9df331).  
+
+Apr 4, 2025. **[Invited talk at the Department of Management Science and Statistics at the University of Texas at San Antonio]** Virtual.   
+[On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365)  
+
+### 2024
+
+Dec 17, 2024. **[Invited talk at the International Conference on Statistics and Data Science (ICSDS)]** Nice, France.  
+[On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365)  
+
+Nov 21, 2024. **[Talk at the UPenn Center for Causal Inference]** Virtual.  
+[On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365)  
+
+Nov 13, 2024. **[Invited talk at the Duan Lab in the Department of Biostatistics at Harvard University]** Boston, MA.  
+[On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365)  
+
+Nov 7-8, 2024. **[Invited talk at the Forum on the Integration of Observational and Randomized Data (FIORD)]** Bethesda, MD.  
+Federated Causal Survival Analysis    
+
+Sep 10, 2024. **[Invited talk at the Department of Biostatistics at NYU Langone]** NYC, New York.  
+[Multi-Source Conformal Inference Under Distribution Shift](https://proceedings.mlr.press/v235/liu24ag.html)  
+
+Aug 5-8, 2024. **[JSM 2024]** I will present in the session *New methods for integrative and adaptive analysis* in Portland, OR.  
+
+Jul 24-26, 2024. **[ICML 2024]** I will present [Multi-Source Conformal Inference Under Distribution Shift](https://arxiv.org/abs/2405.09331) in Vienna, Austria.  
+
+Jul 18, 2024. **[[WebENAR: Van Ryzin Award Highlights]](https://www.enar.org/education/)** [Identifying Surrogate Markers in Real-world Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569).  
+
+Jul 8-10, 2024. **[Invited session organizer and speaker at the International Conference on Frontiers of Data Science]** Hangzhou, China.  
+[Multi-Source Conformal Inference Under Distribution Shift](https://proceedings.mlr.press/v235/liu24ag.html)  
+
+Jul 4-7, 2024. **[Invited talk at the National Committee on U.S.-China Relations - Schwarzman Scholars Global Health Seminar]** Geneva, Switzerland.  
+
+Jun 24, 2024. **[Invited talk at the Department of Health Care Policy at Harvard Medical School]** Boston, MA.  
+Transfer Learning for Provider Profiling.  
+
+May 14-17, 2024. **[Oral at ACIC 2024]** Seattle, WA.  
 [Multi-Source Conformal Inference Under Distribution Shift](https://proceedings.mlr.press/v235/liu24ag.html)  
 
 Mar 20, 2024. **[Invited talk at Northeastern University, Center for Signal Processing, Imaging, Reasoning, and Learning]** Boston, MA.  
@@ -28,6 +76,8 @@ Mar 20, 2024. **[Invited talk at Northeastern University, Center for Signal Proc
 
 Feb 12, 2024. **[Invited talk at INRIA Causal Inference and Missing Data Group]** Paris, France (Virtual).  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://neurips.cc/virtual/2023/poster/71928)  
+
+### 2023  
 
 Dec 13, 2023. **[NeurIPS 2023]** New Orleans, LA.  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://neurips.cc/virtual/2023/poster/71928)
@@ -55,5 +105,11 @@ Federated and Transfer Learning to Estimate Causal Effects of Underrepresented P
 
 Aug 7, 2023. **[Invited talk at JSM]**  Toronto, CN.   
 [Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short).  
-*Winner of the ASA Health Policy Statistics Section Student Paper Award.*
+*Winner of the ASA Health Policy Statistics Section Student Paper Award.*  
+
+May 1, 2023. **[Successful Ph.D. Dissertation Defense!]** Boston, MA.  
+[On Causal Inference in Real World Settings](https://dash.harvard.edu/handle/1/37375748).  
+Thank you to my committee, including Tianxi Cai, Lorenzo Trippa, Rui Duan, and Sebastian Schneeweiss.
+
+
 

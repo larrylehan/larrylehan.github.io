@@ -21,7 +21,7 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 
 ## Talks  
 
-### 2025  
+### [2025]  
 May 14, 2025. **[Oral at ACIC 2025]** Detroit, MI.  
 I will present [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) at [ACIC 2025](https://sci-info.org/annual-meeting/program/agenda/).  
 
@@ -37,7 +37,7 @@ Apr 10, 2025. **[Invited discussant at the Harvard Data Science Initiative Causa
 Apr 4, 2025. **[Invited talk at the Department of Management Science and Statistics at the University of Texas at San Antonio]** Virtual.   
 [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365)  
 
-### 2024
+### [2024]
 
 Dec 17, 2024. **[Invited talk at the International Conference on Statistics and Data Science (ICSDS)]** Nice, France.  
 [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365)  
@@ -77,7 +77,7 @@ Mar 20, 2024. **[Invited talk at Northeastern University, Center for Signal Proc
 Feb 12, 2024. **[Invited talk at INRIA Causal Inference and Missing Data Group]** Paris, France (Virtual).  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://neurips.cc/virtual/2023/poster/71928)  
 
-### 2023  
+### [2023]  
 
 Dec 13, 2023. **[NeurIPS 2023]** New Orleans, LA.  
 [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://neurips.cc/virtual/2023/poster/71928)
@@ -110,6 +110,10 @@ Aug 7, 2023. **[Invited talk at JSM]**  Toronto, CN.
 May 1, 2023. **[Successful Ph.D. Dissertation Defense!]** Boston, MA.  
 [On Causal Inference in Real World Settings](https://dash.harvard.edu/handle/1/37375748).  
 Thank you to my committee, including Tianxi Cai, Lorenzo Trippa, Rui Duan, and Sebastian Schneeweiss.
+
+Mar 19, 2023. **[Talk at ENAR]** Nashville, TN.  
+Federated and Transfer Learning Approaches for Causal Inference.  
+
 
 
 

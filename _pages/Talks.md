@@ -7,6 +7,7 @@ author_profile: true
 
 
 ## Videos  
+---
 **Multiply Robust Federated Estimation of Targeted Average Treatment Effects**  
 NeurIPS, Dec 2023 [[Video]](https://neurips.cc/virtual/2023/poster/71928)  
 
@@ -19,8 +20,8 @@ Harvard University Institute for Quantitative Social Sciences, Applied Statistic
 Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/events/2022/5-day-workshops/22w5184/videos/watch/202208221400-Han.html)
 
 
-## Talks  
-
+## Presentations    
+---
 ### [2025]  
 May 14, 2025. **[Oral at ACIC 2025]** Detroit, MI.  
 I will present [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) at [ACIC 2025](https://sci-info.org/annual-meeting/program/agenda/).  

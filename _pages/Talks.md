@@ -23,6 +23,9 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ## Presentations    
 ---
 ### [2025]  
+May 29, 2025. **[Oral at ASA LiDS 2025]** Brooklyn, NY.  
+I will present [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798) at [ASA Lifetime Data Science 2025](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/a8c53bb5-2075-48c8-baae-f2c3ab55357b/UploadedImages/2025LiDSConferenceBook.pdf).  
+
 May 14, 2025. **[Oral at ACIC 2025]** Detroit, MI.  
 I will present [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) at [ACIC 2025](https://sci-info.org/annual-meeting/program/agenda/).  
 

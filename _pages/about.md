@@ -20,6 +20,8 @@ Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeaster
 
 
 ## Recent News and Upcoming Events  
+June 4, 2025.  **[*JAMA Network Open* Publication]** [Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887) is published in *JAMA Network Open*.  
+
 May 13, 2025. **[*Biostatistics* Acceptance]** [A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development](https://arxiv.org/abs/2407.06350) is accepted in *Biostatistics*.  
 * *Joint work with Peter Gilbert, James Peng, Theis Lange, Yun Lu, Lei Nie, Mei-Chiung Shih, Salina Waddy, Ken Wiley, Margot Yann, Zafar Zafari, Debashis Ghosh, Dean Follmann, Michael Juraska, and Ivan Diaz.*
 
@@ -55,10 +57,10 @@ Nov 27, 2024. **[New preprint]** [Bounding Causal Effects with an Unknown Mixtur
 Nov 26, 2024. **[*NEJM Evidence* Publication]** [Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384) is published in *NEJM Evidence*.    
  
 
-Jul 23, 2024. **[*The American Journal of Drug and Alcohol Abuse* Publication]** [Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures using Bayesian Kernel Machine Regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*.  
+July 23, 2024. **[*The American Journal of Drug and Alcohol Abuse* Publication]** [Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures using Bayesian Kernel Machine Regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*.  
 * *Joint work with Jemar Bather, Alex Bennet, Luther Elliott, and Melody Goodman.*
 
-Jul 18, 2024. **[[*WebENAR: Van Ryzin Award Highlights*]](https://www.enar.org/education/)** [Identifying Surrogate Markers in Real-world Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569) is published in *Statistics in Medicine.*  
+July 18, 2024. **[[*WebENAR: Van Ryzin Award Highlights*]](https://www.enar.org/education/)** [Identifying Surrogate Markers in Real-world Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569) is published in *Statistics in Medicine.*  
 * *Joint work with Xuan Wang and Tianxi Cai.*  
 
 
@@ -73,7 +75,7 @@ Jan 8, 2024. **[Spring 2024 - Teaching HSCI 5151: Methods for Observational Stud
 Dec 13, 2023. **[*NeurIPS 2023* Publication]** I will present [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://neurips.cc/virtual/2023/poster/71928)  in New Orleans, LA.  
 * *Joint work with Zhu Shen and Jose Zubizarreta.*
 
-Jul 25, 2023. **[*NEJM Evidence* Publication]** [Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2300142) is published in *NEJM Evidence*.  
+July 25, 2023. **[*NEJM Evidence* Publication]** [Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2300142) is published in *NEJM Evidence*.  
 
 May 1, 2023. **[Harvard Ph.D. Dissertation Defense!]** Boston, MA.  
 [On Causal Inference in Real World Settings](https://dash.harvard.edu/handle/1/37375748).   

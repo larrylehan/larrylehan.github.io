@@ -23,6 +23,15 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ## Presentations    
 ---
 ### [2025]  
+Jun 17, 2025. **[Discussant at the Online Causal Inference Seminar (OCIS)]** Virtual.  
+I will discuss Julie Josse's talk ["Causal Alternatives to Meta-Analysis"](https://sites.google.com/view/ocis/home).  
+
+Jun 16, 2025. **[Invited talk at ICSA Applied Statistics Symposium 2025]** Storrs, CT.  
+I will present [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  
+
+Jun 4, 2025. **[Invited talk at Pusan National University Hospital]** Pusan, South Korea.  
+I will present [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  
+
 May 29, 2025. **[Oral at ASA LiDS 2025]** Brooklyn, NY.  
 I will present [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798) at [ASA Lifetime Data Science 2025](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/a8c53bb5-2075-48c8-baae-f2c3ab55357b/UploadedImages/2025LiDSConferenceBook.pdf).  
 
@@ -35,7 +44,7 @@ May 5, 2025. **[Methods Workshop at the Brandeis-Harvard SPIRE Center ]** Virtua
 May 1, 2025. **[Talk at the UPenn Center for Causal Inference seminar]** Virtual.  
 [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  
 
-Apr 10, 2025. **[Invited discussant at the Harvard Data Science Initiative Causal Seminar]**  Boston, MA.  
+Apr 10, 2025. **[Discussant at the Harvard Data Science Initiative Causal Seminar]**  Boston, MA.  
 [Elias Bareinboim's talk "Towards Causal Artificial Intelligence"](https://datascience.harvard.edu/calendar_event/causal-seminar-elias-bareinboim/?mc_cid=069bf2711b&mc_eid=40fc9df331).  
 
 Apr 4, 2025. **[Invited talk at the Department of Management Science and Statistics at the University of Texas at San Antonio]** Virtual.   

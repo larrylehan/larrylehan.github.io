@@ -15,7 +15,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2025]**
 ---
-* **Han, L.** (2025). Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings. [JAMA Network Open]
+* **Han, L.** (2025). Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings. [[JAMA Network Open]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887)  
 
 * Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2025). A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development. [[Biostatistics]](https://arxiv.org/abs/2407.06350)   
 

@@ -24,7 +24,7 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ---
 ### [2025]  
 Jun 17, 2025. **[Discussant at the Online Causal Inference Seminar (OCIS)]** Virtual.  
-I will discuss Julie Josse's talk ["Causal Alternatives to Meta-Analysis"](https://sites.google.com/view/ocis/home).  
+I will discuss Julie Josse's talk ["Causal Alternatives to Meta-Analysis"](https://sites.google.com/view/ocis/home). [[Julie's slides].](https://drive.google.com/file/d/1136x5pwhzf0CKHJinlUCNOFlwQqvle6X/view) [[My slides].](https://drive.google.com/file/d/1usIZYf9wNekFklpL2m-deX3BLOrzz1Hm/view) 
 
 Jun 16, 2025. **[Invited talk at ICSA Applied Statistics Symposium 2025]** Storrs, CT.  
 I will present [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  

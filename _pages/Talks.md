@@ -7,7 +7,10 @@ author_profile: true
 
 
 ## Videos  
----
+---  
+**Causal Alternatives to Meta-Analysis (My discussion starts at 47:00)**  
+Online Causal Inference Seminar, Jun 2025 [[Video]](https://www.youtube.com/watch?v=C9VMl3xgE98&t=3684s)
+
 **Multiply Robust Federated Estimation of Targeted Average Treatment Effects**  
 NeurIPS, Dec 2023 [[Video]](https://neurips.cc/virtual/2023/poster/71928)  
 
@@ -24,7 +27,7 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ---
 ### [2025]  
 Jun 17, 2025. **[Discussant at the Online Causal Inference Seminar (OCIS)]** Virtual.  
-I will discuss Julie Josse's talk ["Causal Alternatives to Meta-Analysis"](https://sites.google.com/view/ocis/home). [[Julie's slides].](https://drive.google.com/file/d/1136x5pwhzf0CKHJinlUCNOFlwQqvle6X/view) [[My slides].](https://drive.google.com/file/d/1usIZYf9wNekFklpL2m-deX3BLOrzz1Hm/view) 
+I will discuss Julie Josse's talk ["Causal Alternatives to Meta-Analysis"](https://sites.google.com/view/ocis/home). [[Julie's slides].](https://drive.google.com/file/d/1136x5pwhzf0CKHJinlUCNOFlwQqvle6X/view) [[My slides].](https://drive.google.com/file/d/1usIZYf9wNekFklpL2m-deX3BLOrzz1Hm/view) [[Video].](https://www.youtube.com/watch?v=C9VMl3xgE98&t=3684s)  
 
 Jun 16, 2025. **[Invited talk at ICSA Applied Statistics Symposium 2025]** Storrs, CT.  
 I will present [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  

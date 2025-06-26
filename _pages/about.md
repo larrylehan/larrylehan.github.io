@@ -32,7 +32,7 @@ May 1, 2025. **[*ICML 2025* Acceptance]** "Bridging Fairness and Efficiency in C
 
 Apr 10, 2025. **[*HDSI Causal Seminar* Discussant]** I am the discussant for [Elias Bareinboim's talk "Towards Causal Artificial Intelligence"](https://datascience.harvard.edu/calendar_event/causal-seminar-elias-bareinboim/?mc_cid=069bf2711b&mc_eid=40fc9df331) at the Harvard Data Science Initiative Causal Seminar.  
 
-Mar 17, 2025. **[*JASA* Publication]** [Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://arxiv.org/abs/2112.09313) is published in *Journal of the American Statistical Association*.  
+Mar 17, 2025. **[*JASA* Publication]** [Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249) is published in *Journal of the American Statistical Association*.  
 * *Joint work with Jue Hou, Kelly Cho, Rui Duan, and Tianxi Cai.*  
 
 Jan 30, 2025. **[New preprint]** [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/pdf/2501.18798) is available on Arxiv.  

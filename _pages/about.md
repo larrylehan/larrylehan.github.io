@@ -22,7 +22,7 @@ Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeaster
 ## Recent News and Upcoming Events  
 June 4, 2025.  **[*JAMA Network Open* Publication]** [Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887) is published in *JAMA Network Open*.  
 
-May 13, 2025. **[*Biostatistics* Acceptance]** [A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development](https://arxiv.org/abs/2407.06350) is accepted in *Biostatistics*.  
+May 13, 2025. **[*Biostatistics* Acceptance]** [A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438?login=false) is accepted in *Biostatistics*.  
 * *Joint work with Peter Gilbert, James Peng, Theis Lange, Yun Lu, Lei Nie, Mei-Chiung Shih, Salina Waddy, Ken Wiley, Margot Yann, Zafar Zafari, Debashis Ghosh, Dean Follmann, Michael Juraska, and Ivan Diaz.*
 
 May 5, 2025. **[Methods Workshop]** I am giving a [Methods Workshop](https://heller.brandeis.edu/spire-center/activities/index.html) at the Brandeis-Harvard SPIRE Center titled "Multi-Source Causal Inference Leveraging Transfer Learning".  

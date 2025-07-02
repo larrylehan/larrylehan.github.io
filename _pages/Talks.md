@@ -29,6 +29,9 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 Jul 16, 2025. **[Talk at ICML 2025]** Vancouver, Canada.  
 I will present our work ["Bridging Fairness and Efficiency in Conformal Inference: A Surrogate-Assisted Group-Clustered Approach"](https://icml.cc/virtual/2025/poster/45471).  
 
+Jul 14, 2025. **[Invited talk at Fred Hutch Cancer Center, Deep Learning Affinity Group Seminar Series]** Seattle, WA.  
+I will present ["Bridging Fairness and Efficiency in Conformal Inference: A Surrogate-Assisted Group-Clustered Approach"](https://icml.cc/virtual/2025/poster/45471).  
+
 Jun 17, 2025. **[Discussant at the Online Causal Inference Seminar (OCIS)]** Virtual.  
 I will discuss Julie Josse's talk ["Causal Alternatives to Meta-Analysis"](https://sites.google.com/view/ocis/home). [[Julie's slides].](https://drive.google.com/file/d/1136x5pwhzf0CKHJinlUCNOFlwQqvle6X/view) [[My slides].](https://drive.google.com/file/d/1usIZYf9wNekFklpL2m-deX3BLOrzz1Hm/view) [[Video].](https://www.youtube.com/watch?v=C9VMl3xgE98&t=3684s)  
 

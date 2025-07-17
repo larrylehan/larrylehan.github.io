@@ -20,15 +20,17 @@ Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeaster
 
 
 ## Recent News and Upcoming Events  
+Jul 17, 2025. **[*JAMA Oncology* Publication]** [Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients With Cancer](https://jamanetwork.com/journals/jamaoncology/article-abstract/2836496) is published in *JAMA Oncology*.  
+
+Jul 16, 2025. **[*ICML 2025* Publication]** [Bridging Fairness and Efficiency in Conformal Inference](https://openreview.net/pdf?id=Nxv7d5GjcY) has been accepted and will be presented at *ICML 2025* in Vancouver!  
+* *Joint work with Chenyin Gao and Peter Gilbert.*
+  
 June 4, 2025.  **[*JAMA Network Open* Publication]** [Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887) is published in *JAMA Network Open*.  
 
-May 13, 2025. **[*Biostatistics* Acceptance]** [A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438?login=false) is accepted in *Biostatistics*.  
+May 13, 2025. **[*Biostatistics* Publication]** [A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438?login=false) is accepted in *Biostatistics*.  
 * *Joint work with Peter Gilbert, James Peng, Theis Lange, Yun Lu, Lei Nie, Mei-Chiung Shih, Salina Waddy, Ken Wiley, Margot Yann, Zafar Zafari, Debashis Ghosh, Dean Follmann, Michael Juraska, and Ivan Diaz.*
 
 May 5, 2025. **[Methods Workshop]** I am giving a [Methods Workshop](https://heller.brandeis.edu/spire-center/activities/index.html) at the Brandeis-Harvard SPIRE Center titled "Multi-Source Causal Inference Leveraging Transfer Learning".  
-
-May 1, 2025. **[*ICML 2025* Acceptance]** "Bridging Fairness and Efficiency in Conformal Inference" has been accepted at *ICML 2025*!  
-* *Joint work with Chenyin Gao and Peter Gilbert.*  
 
 Apr 10, 2025. **[*HDSI Causal Seminar* Discussant]** I am the discussant for [Elias Bareinboim's talk "Towards Causal Artificial Intelligence"](https://datascience.harvard.edu/calendar_event/causal-seminar-elias-bareinboim/?mc_cid=069bf2711b&mc_eid=40fc9df331) at the Harvard Data Science Initiative Causal Seminar.  
 

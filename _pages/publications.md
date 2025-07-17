@@ -15,13 +15,13 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2025]**
 ---
-* **Han, L.** (2025). Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients with Cancer. [JAMA Oncology]  
+* **Han, L.** (2025). Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients with Cancer. [[JAMA Oncology]](https://jamanetwork.com/journals/jamaoncology/article-abstract/2836496)
+
+* Gao, C., Gilbert, P.B., & **Han, L.** (2025). Bridging Fairness and Efficiency in Conformal Inference.  [[International Conference on Machine Learning (ICML)]](https://openreview.net/pdf?id=Nxv7d5GjcY)  
   
 * **Han, L.** (2025). Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings. [[JAMA Network Open]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887)  
 
-* Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2025). A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development. [[Biostatistics]](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438)   
-
-* Gao, C., Gilbert, P.B., & **Han, L.** (2025). Bridging Fairness and Efficiency in Conformal Inference.  [International Conference on Machine Learning (ICML)]  
+* Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2025). A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development. [[Biostatistics]](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438)     
 
 * Liu, Y., Levis, A. W., Zhu, K., Yang, S., Gilbert, P. B., & **Han, L.** (2025). Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [[arXiv]](https://arxiv.org/abs/2501.18798)   
 

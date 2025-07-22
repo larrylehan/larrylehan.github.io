@@ -15,7 +15,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2025]**
 ---
-* **Han, L.** (2025). Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients with Cancer. [[JAMA Oncology]](https://jamanetwork.com/journals/jamaoncology/article-abstract/2836496)
+* **Han, L.** (2025). Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients with Cancer. [[JAMA Oncology]](https://jamanetwork.com/journals/jamaoncology/fullarticle/2836496?guestAccessKey=0f7a1a7f-d3a0-43de-ad6b-94eafd8b77da&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)
 
 * Gao, C., Gilbert, P.B., & **Han, L.** (2025). Bridging Fairness and Efficiency in Conformal Inference.  [[International Conference on Machine Learning (ICML)]](https://openreview.net/pdf?id=Nxv7d5GjcY)  
   

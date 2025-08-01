@@ -8,6 +8,9 @@ author_profile: true
 
 ## Videos  
 ---  
+**Two Frontiers in Statistical Learning: Data Fusion for Survival Analysis and Fair Conformal Prediction**  
+Fred Hutch Cancer Center, Jul 2025 [[Video]](https://fredhutch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85b05660-015b-4aed-aeba-b32c0130524d)  
+
 **Causal Alternatives to Meta-Analysis (My discussion starts at 47:00)**  
 Online Causal Inference Seminar, Jun 2025 [[Video]](https://www.youtube.com/watch?v=C9VMl3xgE98&t=3684s)
 

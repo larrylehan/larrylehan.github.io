@@ -29,7 +29,7 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ## Presentations    
 ---
 ### [2025]  
-Aug 4, 2025. **[JSM 2025]** Nashville, TN.  
+Aug 6, 2025. **[JSM 2025]** Nashville, TN.  
 I will present our work [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365).  
 
 Aug 2, 2025. **[FSML 2025]** Nashville, TN.  

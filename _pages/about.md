@@ -20,6 +20,8 @@ Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeaster
 
 
 ## Recent News and Upcoming Events  
+Sep 4, 2025. **[Fall 2025 Teaching]** I am teaching 2 courses in the fall: (i) PHTH 6830: Generalized Linear Models and (ii) HSCI 5151: Methods for Observational Research 2.  
+
 Jul 17, 2025. **[*JAMA Oncology* Publication]** [Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients With Cancer](https://jamanetwork.com/journals/jamaoncology/fullarticle/2836496?guestAccessKey=0f7a1a7f-d3a0-43de-ad6b-94eafd8b77da&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m) is published in *JAMA Oncology*.  
 
 Jul 16, 2025. **[*ICML 2025* Publication]** [Bridging Fairness and Efficiency in Conformal Inference](https://openreview.net/pdf?id=Nxv7d5GjcY) has been accepted and will be presented at *ICML 2025* in Vancouver!  

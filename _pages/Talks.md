@@ -29,6 +29,9 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ## Presentations    
 ---
 ### [2025]  
+Sep 12, 2025. **[Invited talk at HMS, Health Care Policy, Design of Experimental and Non-Experimental Studies Seminar]** Boston, MA.  
+I will present an overview of my recent work on fair, efficient, and robust conformal inference.  
+
 Aug 6, 2025. **[JSM 2025]** Nashville, TN.  
 I will present our work [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365).  
 

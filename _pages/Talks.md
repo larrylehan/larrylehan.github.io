@@ -29,6 +29,9 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ## Presentations    
 ---
 ### [2025]  
+Oct 3, 2025. **[Invited talk at UNC, Causal Inference Research Group]** Chapel Hill, NC.  
+I will present an overview of my recent work on Fairness, Efficiency, and Causality in Conformal Inference.  
+
 Sep 12, 2025. **[Invited talk at HMS, Health Care Policy, Design of Experimental and Non-Experimental Studies Seminar]** Boston, MA.  
 I will present an overview of my recent work on fair, efficient, and robust conformal inference.  
 

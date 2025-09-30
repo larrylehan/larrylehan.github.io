@@ -15,6 +15,8 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2025]**
 ---
+* Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials. [[Journal of the Royal Statistical Society: Series A, forthcoming]](https://arxiv.org/abs/2501.08945)  
+
 * **Han, L.** (2025). Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients with Cancer. [[JAMA Oncology]](https://jamanetwork.com/journals/jamaoncology/fullarticle/2836496?guestAccessKey=0f7a1a7f-d3a0-43de-ad6b-94eafd8b77da&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)
 
 * Gao, C., Gilbert, P.B., & **Han, L.** (2025). Bridging Fairness and Efficiency in Conformal Inference.  [[International Conference on Machine Learning (ICML)]](https://openreview.net/pdf?id=Nxv7d5GjcY)  
@@ -24,8 +26,6 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 * Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2025). A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development. [[Biostatistics]](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438)     
 
 * Liu, Y., Levis, A. W., Zhu, K., Yang, S., Gilbert, P. B., & **Han, L.** (2025). Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [[arXiv]](https://arxiv.org/abs/2501.18798)   
-
-* Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials. [[arXiv]](https://arxiv.org/abs/2501.08945)   
 
 * **Han, L.**, Hou, J., Cho, K., Duan, R., & Cai, T. (2025). Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)  
 

@@ -19,7 +19,13 @@ Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeaster
 **[I currently have openings for postdocs, PhD students, and research assistants! Feel free to contact me if you'd like to learn more about our research.]**
 
 
-## Recent News and Upcoming Events  
+## Recent News and Upcoming Events   
+Sep 30, 2025. **[*JRSS-A* Acceptance]** [COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials](https://arxiv.org/abs/2501.08945) is accepted in *JRSS-A*!  
+* *Joint work with Yi Liu, Ke Zhu, and Shu Yang.*
+
+Sep 19, 2025. **[NIH K01 Funded]** [Causal Machine Learning Methods to Study Individual Vaccine Efficacy Using Multi-Source Data](https://reporter.nih.gov/search/vhResbUI9UWt68NtmXm2Qg/project-details/11213127) is funded by the NIAID!  
+* Mentors: Peter Gilbert, Sharon-Lise Normand, Michael Hudgens, Andrea Troxel, Alex Vespignani, Lindsey Baden, Dan Barouch  
+  
 Sep 4, 2025. **[Fall 2025 Teaching]** I am teaching 2 courses in the fall: (i) PHTH 6830: Generalized Linear Models and (ii) HSCI 5151: Methods for Observational Research 2.  
 
 Jul 17, 2025. **[*JAMA Oncology* Publication]** [Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients With Cancer](https://jamanetwork.com/journals/jamaoncology/fullarticle/2836496?guestAccessKey=0f7a1a7f-d3a0-43de-ad6b-94eafd8b77da&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m) is published in *JAMA Oncology*.  
@@ -41,9 +47,6 @@ Mar 17, 2025. **[*JASA* Publication]** [Federated Adaptive Causal Estimation (FA
 
 Jan 30, 2025. **[New preprint]** [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/pdf/2501.18798) is available on Arxiv.  
 * *Joint work with Yi Liu, Alex Levis, Ke Zhu, Shu Yang, and Peter Gilbert.*
-
-Jan 16, 2025. **[New preprint]** [COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials](https://arxiv.org/pdf/2501.08945) is available on Arxiv.  
-* *Joint work with Yi Liu, Ke Zhu, and Shu Yang.*
 
 Jan 8, 2025. **[Spring 2025 - Teaching PHTH 6800: Causal Inference in Public Health Research]** I will teach a PhD-level first course in causal inference.  
 

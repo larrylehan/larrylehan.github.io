@@ -17,7 +17,7 @@ A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV
 ---
 
 **Northeastern University**  
-Assistant Professor in Public Health and Health Sciences, Aug 2023-Present  
+Assistant Professor of Biostatistics, Department of Public Health and Health Sciences, Aug 2023-Present  
 
 **Fred Hutch Cancer Center**  
 Affiliate Investigator, Vaccine and Infectious Disease Division, Jan 2024-Present  

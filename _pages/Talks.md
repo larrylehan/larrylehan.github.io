@@ -9,7 +9,7 @@ author_profile: true
 ## Videos  
 ---  
 **Fairness, Efficiency, and Causality in Conformal Inference**  
-UNC Causal Inference Research Group, Oct 2025 [[Video]](https://unc.zoom.us/rec/share/F60EdvCWaShJbDYIQDqxgBA6IUmEr1SOLM2sY-cKkK7S6Q7EcBfwyj2gyRjlwFiH.katCO22dGcSPAq4U)  
+UNC Causal Inference Research Group, Oct 2025 [[Video available upon request]]
 
 **Two Frontiers in Statistical Learning: Data Fusion for Survival Analysis and Fair Conformal Prediction**  
 Fred Hutch Cancer Center, Jul 2025 [[Video]](https://fredhutch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85b05660-015b-4aed-aeba-b32c0130524d)  
@@ -20,11 +20,6 @@ Online Causal Inference Seminar, Jun 2025 [[Video]](https://www.youtube.com/watc
 **Multiply Robust Federated Estimation of Targeted Average Treatment Effects**  
 NeurIPS, Dec 2023 [[Video]](https://neurips.cc/virtual/2023/poster/71928)  
 
-
-**Promises and Perils of Multiply Robust Federated and Transfer Learning to Estimate Causal Effects**  
-Harvard University Institute for Quantitative Social Sciences, Applied Statistics Workshop, Sep 2023 [[Video]](https://harvard.zoom.us/rec/play/yg47yOmDLZRYNHoQ6UwgecYPCrVwnIz8HwjBwX4JUV5QaoST5bBPjQP4FqD7JK_vZiRSMXpU9ArDuU3w.vuE8LALM76JR5zk6?canPlayFromShare=true&from=share_recording_detail&startTime=1695225587000&componentName=rec-play&originRequestUrl=https%3A%2F%2Fharvard.zoom.us%2Frec%2Fshare%2F8YtOB3zk51l4VtYfVuJnpGgOKZmnyYVExecdOj91M833hhFjtRrWLtxNXUk82mQi.NLkO5lbsKh_j-jsX%3FstartTime%3D1695225587000)
-
-
 **Challenges of Surrogate Markers in Real-World Data**   
 Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/events/2022/5-day-workshops/22w5184/videos/watch/202208221400-Han.html)
 
@@ -32,8 +27,11 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ## Presentations    
 ---
 ### [2025]  
+Nov 5, 2025. **[Invited talk at MGH, Clinical & Translational Epidemiology Unit]** Boston, MA.  
+I will present an overview of my recent work on Fairness, Efficiency, and Causality in Conformal Inference.   
+
 Oct 3, 2025. **[Invited talk at UNC, Causal Inference Research Group]** Chapel Hill, NC.  
-I will present an overview of my recent work on Fairness, Efficiency, and Causality in Conformal Inference.  [[Video]](https://unc.zoom.us/rec/share/F60EdvCWaShJbDYIQDqxgBA6IUmEr1SOLM2sY-cKkK7S6Q7EcBfwyj2gyRjlwFiH.katCO22dGcSPAq4U)  
+I will present an overview of my recent work on Fairness, Efficiency, and Causality in Conformal Inference.  
 
 Sep 12, 2025. **[Invited talk at HMS, Health Care Policy, Design of Experimental and Non-Experimental Studies Seminar]** Boston, MA.  
 I will present an overview of my recent work on fair, efficient, and robust conformal inference.  

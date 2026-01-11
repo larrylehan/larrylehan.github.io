@@ -20,7 +20,7 @@ Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeaster
 
 
 ## Recent News and Upcoming Events   
-Dec 2025. **[PCORI Awarded]** I will be the PI on a new study, *Developing Accurate and Practical Methods To Quantify Uncertainty in Predictions Made by Artificial Intelligence Models*, funded by PCORI for $1.068 million, Apr 2026 - Mar 2029!  
+Dec 2025. **[PCORI Awarded]** I will be the PI on a new study, [Developing Accurate and Practical Methods To Quantify Uncertainty in Predictions Made by Artificial Intelligence Models](https://www.pcori.org/research-results/2025/developing-methods-uncertainty-predictions-artificial-intelligence-models), funded by PCORI for $1+ million, Mar 2026 - Feb 2029!  
 
 Oct 2025. **[*JRSS-A* Acceptance]** [COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials](https://arxiv.org/abs/2501.08945) is accepted in *JRSS-A*!  
 * *Joint work with Yi Liu, Ke Zhu, and Shu Yang.*

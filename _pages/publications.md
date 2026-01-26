@@ -13,9 +13,14 @@ I develop statistical and machine learning methods with real-world applications 
 
 Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications. Here, I highlight some of my research.  
 
+## **[2026]**
+---
+* Liu, Y., Levis, A., Zhu, K., Yang, S., Gilbert, P.B., & **Han, L.** (2026). Privacy-Protected Causal Survival Analysis Under Distribution Shift. [[International Conference on Learning Representations (ICLR)]](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9)
+
+
 ## **[2025]**
 ---
-* Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials. [[Journal of the Royal Statistical Society: Series A, forthcoming]](https://arxiv.org/abs/2501.08945)  
+* Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials. [[Journal of the Royal Statistical Society: Series A]](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246)  
 
 * **Han, L.** (2025). Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients with Cancer. [[JAMA Oncology]](https://jamanetwork.com/journals/jamaoncology/fullarticle/2836496?guestAccessKey=0f7a1a7f-d3a0-43de-ad6b-94eafd8b77da&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)
 

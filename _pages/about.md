@@ -20,6 +20,9 @@ Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeaster
 
 
 ## Recent News and Upcoming Events   
+Jan 2026. **[*ICLR 2026* Acceptance]** [Privacy-Protected Causal Survival Analysis Under Distribution Shift](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) has been accepted at ICLR 2026!  
+* *Joint work with Yi Liu, Alex Levis, Ke Zhu, Shu Yang, and Peter Gilbert.*  
+
 Dec 2025. **[PCORI Awarded]** I will be the PI on a new study, [Developing Accurate and Practical Methods To Quantify Uncertainty in Predictions Made by Artificial Intelligence Models](https://www.pcori.org/research-results/2025/developing-methods-uncertainty-predictions-artificial-intelligence-models), funded by PCORI for $1+ million, Mar 2026 - Feb 2029!  
 
 Oct 2025. **[*JRSS-A* Acceptance]** [COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials](https://arxiv.org/abs/2501.08945) is accepted in *JRSS-A*!  

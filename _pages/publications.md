@@ -15,32 +15,32 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2026]**
 ---
-* Liu, Y., Levis, A., Zhu, K., Yang, S., Gilbert, P.B., & **Han, L.** (2026). Privacy-Protected Causal Survival Analysis Under Distribution Shift. [[International Conference on Learning Representations (ICLR)]](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9)
+* Liu, Y., Levis, A., Zhu, K., Yang, S., Gilbert, P.B., & **Han, L.** (2026). Privacy-Protected Causal Survival Analysis Under Distribution Shift. [[International Conference on Learning Representations (ICLR)]](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) [[Code]](https://github.com/yiliu1998/FuseSurv)  
 
 
 ## **[2025]**
 ---
-* Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials. [[Journal of the Royal Statistical Society: Series A]](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246)  
+* Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials. [[Journal of the Royal Statistical Society: Series A]](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246) [[Code]](https://github.com/yiliu1998/Coadvise)   
 
 * **Han, L.** (2025). Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients with Cancer. [[JAMA Oncology]](https://jamanetwork.com/journals/jamaoncology/fullarticle/2836496?guestAccessKey=0f7a1a7f-d3a0-43de-ad6b-94eafd8b77da&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)
 
-* Gao, C., Gilbert, P.B., & **Han, L.** (2025). Bridging Fairness and Efficiency in Conformal Inference.  [[International Conference on Machine Learning (ICML)]](https://openreview.net/pdf?id=Nxv7d5GjcY)  
+* Gao, C., Gilbert, P.B., & **Han, L.** (2025). Bridging Fairness and Efficiency in Conformal Inference.  [[International Conference on Machine Learning (ICML)]](https://openreview.net/pdf?id=Nxv7d5GjcY) [[Code]](https://github.com/Gaochenyin/SurrConformalDR)   
   
 * **Han, L.** (2025). Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings. [[JAMA Network Open]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887)  
 
-* Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2025). A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development. [[Biostatistics]](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438)     
+* Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2025). A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development. [[Biostatistics]](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438) [[Code]](https://github.com/jpspeng/gbsmssims)      
 
-* Liu, Y., Levis, A. W., Zhu, K., Yang, S., Gilbert, P. B., & **Han, L.** (2025). Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [[arXiv]](https://arxiv.org/abs/2501.18798)   
+* Liu, Y., Levis, A. W., Zhu, K., Yang, S., Gilbert, P. B., & **Han, L.** (2025). Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [[arXiv]](https://arxiv.org/abs/2501.18798) [[Code]](https://github.com/yiliu1998/FuseSurv)     
 
 * **Han, L.**, Hou, J., Cho, K., Duan, R., & Cai, T. (2025). Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)  
 
-* Guo, Z., Li, X., **Han, L.**, & Cai, T. (2025). Robust Inference for Federated Meta-Learning. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246)  
+* Guo, Z., Li, X., **Han, L.**, & Cai, T. (2025). Robust Inference for Federated Meta-Learning. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246) [[Code]](https://github.com/celehs/RIFL)   
 
 
 
 ## **[2024]**  
 ---
-* Gao, C., Gilbert, P. B., & **Han, L.** (2024). On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [[arXiv]](https://arxiv.org/abs/2412.12365)    
+* Gao, C., Gilbert, P. B., & **Han, L.** (2024). On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [[arXiv]](https://arxiv.org/abs/2412.12365) [[Code]](https://github.com/Gaochenyin/SurrConformalDR)       
 
 * **Han, L.** (2024). Truncated, Not Forgotten—Handling Left Truncation in Time-to-Event Studies. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2400384)  
 
@@ -51,7 +51,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 * **Han, L.**, Li, Y., Niknam, B., & Zubizarreta, J. R. (2024). Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement. [[The Annals of Applied Statistics]](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)    
 
-* Liu, Y., Levis, A., Normand, S. & **Han, L.** (2024). Multi-Source Conformal Inference Under Distribution Shift. [[International Conference on Machine Learning (ICML)]](https://proceedings.mlr.press/v235/liu24ag.html)   
+* Liu, Y., Levis, A., Normand, S. & **Han, L.** (2024). Multi-Source Conformal Inference Under Distribution Shift. [[International Conference on Machine Learning (ICML)]](https://proceedings.mlr.press/v235/liu24ag.html) [[Code]](https://github.com/yiliu1998/MuSCI)    
 
 * **Han, L.**, Arfè, A., & Trippa, L. (2024). Sensitivity Analyses of Clinical Trial Designs: Selecting Scenarios and Summarizing Operating Characteristics. [[The American Statistician]](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2216253)  
 
@@ -64,7 +64,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 * **Han, L.** (2023). Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2300142)  
 
-* Wang, X., Parast, L., **Han, L.**, Tian, L., & Cai, T. (2023). Robust Approach to Combining Multiple Markers to Improve Surrogacy. [[Biometrics]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13677)  
+* Wang, X., Parast, L., **Han, L.**, Tian, L., & Cai, T. (2023). Robust Approach to Combining Multiple Markers to Improve Surrogacy. [[Biometrics]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13677) [[Code]](https://github.com/laylaparast/CMFsurrogate)   
 
 * Zhang, H. G., Honerlaw, J. P., Maripuri, M., ..., 4CE Consortium (**Han, L.**),..., & Brat, G. A. (2023). Potential Pitfalls in the Use of Real-World Data for Studying Long COVID. [[Nature Medicine]](https://www.nature.com/articles/s41591-023-02274-y)  
 

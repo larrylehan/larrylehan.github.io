@@ -15,6 +15,8 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2026]**
 ---
+* Rubinstein, M., Agniel, D., **Han, L.,** Horvitz-Lennon, M., Normand, S-L. (2026). Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Missingness. [[Journal of Causal Inference]](https://arxiv.org/pdf/2411.16902)  
+  
 * Liu, Y., Levis, A., Zhu, K., Yang, S., Gilbert, P.B., & **Han, L.** (2026). Privacy-Protected Causal Survival Analysis Under Distribution Shift. [[International Conference on Learning Representations (ICLR)]](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) [[Code]](https://github.com/yiliu1998/FuseSurv)  
 
 

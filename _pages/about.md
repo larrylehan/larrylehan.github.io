@@ -20,6 +20,9 @@ Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeaster
 
 
 ## Recent News and Upcoming Events   
+Mar 2026. **[*Journal of Causal Inference* Acceptance]** [Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Censoring](https://arxiv.org/pdf/2411.16902) has been accepted at JCI!  
+* *Joint work with Max Rubinstein, Denis Agniel, Marcela Horvitz-Lennon, and Sharon-Lise Normand.*
+  
 Jan 2026. **[*ICLR 2026* Acceptance]** [Privacy-Protected Causal Survival Analysis Under Distribution Shift](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) has been accepted at ICLR 2026!  
 * *Joint work with Yi Liu, Alex Levis, Ke Zhu, Shu Yang, and Peter Gilbert.*  
 
@@ -62,9 +65,6 @@ Dec 2024. **[New preprint]** [On the Role of Surrogates in Conformal Inference o
 * *Joint work with Chenyin Gao and Peter Gilbert.*
 
 Dec 2024. **[ICSDS invited talk]** I will present [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) at the International Conference on Statistics and Data Science (ICSDS) in Nice, France.  
-
-Nov 2024. **[New preprint]** [Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Censoring](https://arxiv.org/pdf/2411.16902) is available on Arxiv.  
-* *Joint work with Max Rubinstein, Denis Agniel, Marcela Horvitz-Lennon, and Sharon-Lise Normand.*
 
 Nov 2024. **[*NEJM Evidence* Publication]** [Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384) is published in *NEJM Evidence*.    
  

@@ -8,9 +8,6 @@ author_profile: true
 
 ## Videos  
 ---  
-**Fairness, Efficiency, and Causality in Conformal Inference**  
-UNC Causal Inference Research Group, Oct 2025 [[Video available upon request]]
-
 **Two Frontiers in Statistical Learning: Data Fusion for Survival Analysis and Fair Conformal Prediction**  
 Fred Hutch Cancer Center, Jul 2025 [[Video]](https://fredhutch.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=85b05660-015b-4aed-aeba-b32c0130524d)  
 
@@ -26,42 +23,52 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 
 ## Presentations    
 ---
+### [2026]  
+Apr. **[Invited talk at Duke Industry Statistics Symposium]** Durham, NC. 
+FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions. 
+
+Mar. **[ENAR 2026]** Indianapolis, IN.  
+FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions.  
+
+Feb. **[Invited talk at Brown University, Department of Biostatistics]** Providence, RI.  
+Trustworthy Uncertainty Quantification for Biomedical Decision-Making: Fair and Causal Conformal Inference with Efficiency Guarantees.  
+
 ### [2025]  
-Nov 5, 2025. **[Invited talk at MGH, Clinical & Translational Epidemiology Unit]** Boston, MA.  
-I will present an overview of my recent work on Fairness, Efficiency, and Causality in Conformal Inference.   
+Nov 5, 2025. **[Invited talk at Massachusetts General Hospital, Clinical & Translational Epidemiology Unit]** Boston, MA.  
+An overview of my recent work on Fairness, Efficiency, and Causality in Conformal Inference.   
 
 Oct 3, 2025. **[Invited talk at UNC, Causal Inference Research Group]** Chapel Hill, NC.  
-I will present an overview of my recent work on Fairness, Efficiency, and Causality in Conformal Inference.  
+An overview of my recent work on Fairness, Efficiency, and Causality in Conformal Inference.  
 
-Sep 12, 2025. **[Invited talk at HMS, Health Care Policy, Design of Experimental and Non-Experimental Studies Seminar]** Boston, MA.  
-I will present an overview of my recent work on fair, efficient, and robust conformal inference.  
+Sep 12, 2025. **[Invited talk at Harvard Medical School, Department of Health Care Policy, Design of Experimental and Non-Experimental Studies Seminar]** Boston, MA.  
+An overview of my recent work on fair, efficient, and robust conformal inference.  
 
 Aug 6, 2025. **[JSM 2025]** Nashville, TN.  
-I will present our work [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365).  
+Our work [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365).  
 
 Aug 2, 2025. **[FSML 2025]** Nashville, TN.  
-I will present our work [Bridging Fairness and Efficiency in Conformal Inference: A Surrogate-Assisted Group-Clustered Approach](https://icml.cc/virtual/2025/poster/45471).  
+Our work [Bridging Fairness and Efficiency in Conformal Inference: A Surrogate-Assisted Group-Clustered Approach](https://icml.cc/virtual/2025/poster/45471).  
 
 Jul 16, 2025. **[ICML 2025]** Vancouver, Canada.  
-I will present our work [Bridging Fairness and Efficiency in Conformal Inference: A Surrogate-Assisted Group-Clustered Approach](https://icml.cc/virtual/2025/poster/45471).  
+Our work [Bridging Fairness and Efficiency in Conformal Inference: A Surrogate-Assisted Group-Clustered Approach](https://icml.cc/virtual/2025/poster/45471).  
 
 Jul 14, 2025. **[Invited talk at Fred Hutch Cancer Center, Deep Learning Affinity Group Special Seminar]** Seattle, WA.  
-I will present [Two Frontiers in Statistical Learning: Data Fusion for Survival Analysis and Fair Conformal Prediction](https://research.fredhutch.org/dlag/en/seminars.html).  
+Presented [Two Frontiers in Statistical Learning: Data Fusion for Survival Analysis and Fair Conformal Prediction](https://research.fredhutch.org/dlag/en/seminars.html).  
 
 Jun 17, 2025. **[Discussant at the Online Causal Inference Seminar (OCIS)]** Virtual.  
-I will discuss Julie Josse's talk ["Causal Alternatives to Meta-Analysis"](https://sites.google.com/view/ocis/home). [[Julie's slides].](https://drive.google.com/file/d/1136x5pwhzf0CKHJinlUCNOFlwQqvle6X/view) [[My slides].](https://drive.google.com/file/d/1usIZYf9wNekFklpL2m-deX3BLOrzz1Hm/view) [[Video].](https://www.youtube.com/watch?v=C9VMl3xgE98&t=3684s)  
+Discussed Julie Josse's talk ["Causal Alternatives to Meta-Analysis"](https://sites.google.com/view/ocis/home). [[Julie's slides].](https://drive.google.com/file/d/1136x5pwhzf0CKHJinlUCNOFlwQqvle6X/view) [[My slides].](https://drive.google.com/file/d/1usIZYf9wNekFklpL2m-deX3BLOrzz1Hm/view) [[Video].](https://www.youtube.com/watch?v=C9VMl3xgE98&t=3684s)  
 
 Jun 16, 2025. **[Invited talk at ICSA Applied Statistics Symposium 2025]** Storrs, CT.  
-I will present [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  
+Presented [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  
 
 Jun 4, 2025. **[Invited talk at Pusan National University Hospital]** Pusan, South Korea.  
-I will present [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  
+Presented [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798).  
 
 May 29, 2025. **[Oral at ASA LiDS 2025]** Brooklyn, NY.  
-I will present [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798) at [ASA Lifetime Data Science 2025](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/a8c53bb5-2075-48c8-baae-f2c3ab55357b/UploadedImages/2025LiDSConferenceBook.pdf).  
+Presented [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/abs/2501.18798) at [ASA Lifetime Data Science 2025](https://higherlogicdownload.s3.amazonaws.com/AMSTAT/a8c53bb5-2075-48c8-baae-f2c3ab55357b/UploadedImages/2025LiDSConferenceBook.pdf).  
 
 May 14, 2025. **[Oral at ACIC 2025]** Detroit, MI.  
-I will present [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) at [ACIC 2025](https://sci-info.org/annual-meeting/program/agenda/).  
+Presented [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) at [ACIC 2025](https://sci-info.org/annual-meeting/program/agenda/).  
 
 May 5, 2025. **[Methods Workshop at the Brandeis-Harvard SPIRE Center ]** Virtual.  
 [Multi-Source Causal Inference Leveraging Transfer Learning](https://heller.brandeis.edu/spire-center/activities/index.html).   

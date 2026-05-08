@@ -10,9 +10,9 @@ redirect_from:
 
 I am an Assistant Professor of Biostatistics in the [Department of Public Health and Health Sciences](https://bouve.northeastern.edu/directory/larry-han/) at Northeastern University and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html). [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical and machine learning methods to leverage real-world data to improve decision-making, with a focus on public health and clinical medicine. This includes designing robust, efficient, and targeted estimators for learning causal effects using large-scale data generated from observational studies and randomized trials. My current areas of interest include causal inference, conformal inference, data integration, federated learning, and survival analysis.
 
-I received my PhD in [Biostatistics at Harvard University](https://www.hsph.harvard.edu/biostatistics/), where I was advised by [Tianxi Cai](https://www.hsph.harvard.edu/profile/tianxi-cai/) and [Lorenzo Trippa](https://www.hsph.harvard.edu/profile/lorenzo-trippa/). I completed a postdoc in [Health Care Policy at Harvard Medical School](https://hcp.hms.harvard.edu/about), mentored by [Sharon-Lise Normand](https://hcp.hms.harvard.edu/people/sharon-lise-normand). I hold an AM in Biostatistics from Harvard, an MPhil in Healthcare Operations from the University of Cambridge, an MA in Global Affairs from Tsinghua University, and a BS in Public Health and Biostatistics from UNC-Chapel Hill.  
+I received my PhD in [Biostatistics at Harvard University](https://www.hsph.harvard.edu/biostatistics/), where I was advised by [Tianxi Cai](https://www.hsph.harvard.edu/profile/tianxi-cai/) and [Lorenzo Trippa](https://www.hsph.harvard.edu/profile/lorenzo-trippa/). I completed a postdoc in [Health Care Policy at Harvard Medical School](https://hcp.hms.harvard.edu/about), mentored by [Sharon-Lise Normand](https://hcp.hms.harvard.edu/people/sharon-lise-normand). I hold an AM in Biostatistics from Harvard, an MPhil in Healthcare Operations from the University of Cambridge (Gates Cambridge Scholar), an MA in Global Affairs from Tsinghua University (Schwarzman Scholar), and a BS in Public Health and Biostatistics from UNC-Chapel Hill (Morehead-Cain Scholar).  
 
-Outside of work, I enjoy playing golf, staying up-to-date on global affairs, and cheering on the UNC Tar Heels.   
+Outside of work, I enjoy playing golf, staying up-to-date on global affairs, reading biographies, and cheering on the UNC Tar Heels.   
 
 Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeastern.edu). 
 
@@ -20,6 +20,9 @@ Feel free to reach out via email: [lar.han@northeastern.edu](lar.han@northeaster
 
 
 ## Recent News and Upcoming Events   
+May 2026. **[New preprint]** [History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581) is available on Arxiv.  
+* *Joint work with Yuyao Wang, Alex Levis, and Shu Yang.*  
+  
 Mar 2026. **[*Journal of Causal Inference* Acceptance]** [Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Censoring](https://arxiv.org/pdf/2411.16902) has been accepted at JCI!  
 * *Joint work with Max Rubinstein, Denis Agniel, Marcela Horvitz-Lennon, and Sharon-Lise Normand.*
   

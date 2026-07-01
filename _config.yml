@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Larry Han"
   avatar           : "morehead2.png"
-  bio              : "Assistant Professor of Biostatistics in Public Health and Health Sciences, Northeastern University."
-  location         : "Boston, MA"
+  bio              : "Assistant Professor of Biostatistics and Data Science, Brown University."
+  location         : "Providence, RI"
   employer         :
   pubmed           : "https://pubmed.ncbi.nlm.nih.gov/?term=larry+han&sort=date"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "lar.han@northeastern.edu"
+  email            : "larry_han@brown.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :

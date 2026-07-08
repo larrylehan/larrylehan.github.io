@@ -59,6 +59,9 @@ Thesis Advisor: [Michael Hudgens](https://sph.unc.edu/adv_profile/michael-hudgen
 **ASA Boston Pharmaceutical Statistics Symposium Scientific Committee**.  
 (2024-Present).  
 
+**Associate Editor, Statistics and Public Policy**.  
+(2026-Present).  
+
 **Associate Editor, Health Services and Outcomes Research Methodology**.  
 (2024-Present).  
 

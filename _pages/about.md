@@ -20,6 +20,9 @@ Feel free to reach out via email: [larry_han@brown.edu](larry_han@brown.edu).
 
 
 ## Recent News and Upcoming Events   
+Jul 2026. **[*STAI-X* Acceptance]** [FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions] has been accepted at STAI-X!  
+* *Joint work with Chenyin Gao.*
+  
 May 2026. **[New preprint]** [History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581) is available on Arxiv.  
 * *Joint work with Yuyao Wang, Alex Levis, and Shu Yang.*  
   

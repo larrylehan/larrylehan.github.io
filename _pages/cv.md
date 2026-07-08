@@ -15,12 +15,15 @@ A PDF of my CV is available [here](http://larrylehan.github.io/files/LarryHan_CV
 
 # Appointments  
 ---
-
-**Northeastern University**  
-Assistant Professor of Biostatistics, Department of Public Health and Health Sciences, Aug 2023-Present  
+**Brown University**  
+Assistant Professor of Biostatistics and Data Science, Department of Biostatistics, Brown Data Science Institute, Jul 2026-Present  
 
 **Fred Hutch Cancer Center**  
 Affiliate Investigator, Vaccine and Infectious Disease Division, Jan 2024-Present  
+
+**Northeastern University**  
+Assistant Professor of Biostatistics, Department of Public Health and Health Sciences, Aug 2023-Jun 2026  
+
 
 
 # Education

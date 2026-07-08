@@ -15,7 +15,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2026]**
 ---
-* Rubinstein, M., Agniel, D., **Han, L.,** Horvitz-Lennon, M., Normand, S-L. (2026). Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Missingness. [[Journal of Causal Inference]](https://arxiv.org/pdf/2411.16902)  
+* Rubinstein, M., Agniel, D., **Han, L.,** Horvitz-Lennon, M., Normand, S-L. (2026). Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Missingness. [[Journal of Causal Inference]](https://www.degruyterbrill.com/document/doi/10.1515/jci-2025-0028/html?srsltid=AfmBOoohKxy1b5d4F7DVHZ2UP_binwNZmqbU5-al-hQtUFxKG9W8azax)  
   
 * Liu, Y., Levis, A., Zhu, K., Yang, S., Gilbert, P.B., & **Han, L.** (2026). Privacy-Protected Causal Survival Analysis Under Distribution Shift. [[International Conference on Learning Representations (ICLR)]](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) [[Code]](https://github.com/yiliu1998/FuseSurv)  
 
@@ -46,7 +46,6 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 * **Han, L.** (2024). Truncated, Not Forgotten—Handling Left Truncation in Time-to-Event Studies. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2400384)  
 
-* Rubinstein, M., Agniel, D., **Han, L.**, Horvitz-Lennon, M., & Normand, S. L. (2024). Bounding Causal Effects with an Unknown Mixture of Informative and Non-Informative Censoring. [[arXiv]](https://arxiv.org/abs/2411.16902)   
 
 * Bather, J. R., **Han, L.**, Bennett, A. S., Elliott, L., & Goodman, M. S. (2024). Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures using Bayesian Kernel Machine Regression. [[The American Journal of Drug and Alcohol Abuse]](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463)  
 

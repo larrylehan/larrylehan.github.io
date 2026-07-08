@@ -24,6 +24,9 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ## Presentations    
 ---
 ### [2026]  
+Jun. **[Invited talk at Institute of Mathematical and Statistical Innovation]** Chicago, IL.  
+Targeted Data Fusion for Causal Survival Analysis.  
+
 Apr. **[Invited talk at Duke Industry Statistics Symposium]** Durham, NC. 
 FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions. 
 

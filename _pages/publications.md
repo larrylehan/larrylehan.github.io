@@ -15,7 +15,10 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2026]**
 ---
-* Rubinstein, M., Agniel, D., **Han, L.,** Horvitz-Lennon, M., Normand, S-L. (2026). Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Missingness. [[Journal of Causal Inference]](https://www.degruyterbrill.com/document/doi/10.1515/jci-2025-0028/html?srsltid=AfmBOoohKxy1b5d4F7DVHZ2UP_binwNZmqbU5-al-hQtUFxKG9W8azax)  
+* Gao, C. and **Han, L.** (2026). FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions. [[Statistics and Trustworthy AI for
+Cross (X)-Domain Acceleration (STAI-X)]](https://openreview.net/forum?id=aYlM08uR9J&noteId=aYlM08uR9J) [[Code]](https://github.com/Gaochenyin/FACTOR)
+
+* Rubinstein, M., Agniel, D., **Han, L.,** Horvitz-Lennon, M., Normand, S-L. (2026). Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Missingness. [[Journal of Causal Inference]](https://www.degruyterbrill.com/document/doi/10.1515/jci-2025-0028/html?srsltid=AfmBOoohKxy1b5d4F7DVHZ2UP_binwNZmqbU5-al-hQtUFxKG9W8azax) [[Code]](https://github.com/mrubinst757/mixture-missingness)   
   
 * Liu, Y., Levis, A., Zhu, K., Yang, S., Gilbert, P.B., & **Han, L.** (2026). Privacy-Protected Causal Survival Analysis Under Distribution Shift. [[International Conference on Learning Representations (ICLR)]](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) [[Code]](https://github.com/yiliu1998/FuseSurv)  
 

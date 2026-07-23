@@ -15,67 +15,69 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2026]**
 ---
+* Wang, Y., Levis, A., Yang, S., **Han, L.** (2026+). History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes. [[Arxiv]](https://arxiv.org/abs/2605.06581) [[Code]](https://github.com/wangyuyao98/HAPS)
+
 * Gao, C. and **Han, L.** (2026). FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions. [[Statistics and Trustworthy AI for
 Cross (X)-Domain Acceleration (STAI-X)]](https://openreview.net/forum?id=aYlM08uR9J&noteId=aYlM08uR9J) [[Code]](https://github.com/Gaochenyin/FACTOR)
 
 * Rubinstein, M., Agniel, D., **Han, L.,** Horvitz-Lennon, M., Normand, S-L. (2026). Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Missingness. [[Journal of Causal Inference]](https://www.degruyterbrill.com/document/doi/10.1515/jci-2025-0028/html?srsltid=AfmBOoohKxy1b5d4F7DVHZ2UP_binwNZmqbU5-al-hQtUFxKG9W8azax) [[Code]](https://github.com/mrubinst757/mixture-missingness)   
   
-* Liu, Y., Levis, A., Zhu, K., Yang, S., Gilbert, P.B., & **Han, L.** (2026). Privacy-Protected Causal Survival Analysis Under Distribution Shift. [[International Conference on Learning Representations (ICLR)]](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) [[Code]](https://github.com/yiliu1998/FuseSurv)  
+* Liu, Y., Levis, A., Zhu, K., Yang, S., Gilbert, P.B., **Han, L.** (2026). Privacy-Protected Causal Survival Analysis Under Distribution Shift. [[International Conference on Learning Representations (ICLR)]](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) [[Code]](https://github.com/yiliu1998/FuseSurv)  
 
 
 ## **[2025]**
 ---
-* Liu, Y., Zhu, K., **Han, L.**, & Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials. [[Journal of the Royal Statistical Society: Series A]](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246) [[Code]](https://github.com/yiliu1998/Coadvise)   
+* Liu, Y., Zhu, K., **Han, L.**, Yang, S. (2025). COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials. [[Journal of the Royal Statistical Society: Series A]](https://academic.oup.com/jrsssa/advance-article/doi/10.1093/jrsssa/qnaf171/8314246) [[Code]](https://github.com/yiliu1998/Coadvise)   
 
 * **Han, L.** (2025). Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients with Cancer. [[JAMA Oncology]](https://jamanetwork.com/journals/jamaoncology/fullarticle/2836496?guestAccessKey=0f7a1a7f-d3a0-43de-ad6b-94eafd8b77da&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m)
 
-* Gao, C., Gilbert, P.B., & **Han, L.** (2025). Bridging Fairness and Efficiency in Conformal Inference.  [[International Conference on Machine Learning (ICML)]](https://openreview.net/pdf?id=Nxv7d5GjcY) [[Code]](https://github.com/Gaochenyin/SurrConformalDR)   
+* Gao, C., Gilbert, P.B., **Han, L.** (2025). Bridging Fairness and Efficiency in Conformal Inference.  [[International Conference on Machine Learning (ICML)]](https://openreview.net/pdf?id=Nxv7d5GjcY) [[Code]](https://github.com/Gaochenyin/SurrConformalDR)   
   
 * **Han, L.** (2025). Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings. [[JAMA Network Open]](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887)  
 
 * Gilbert, P. B., Peng, J., **Han, L.**, ... & Diaz, I. (2025). A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development. [[Biostatistics]](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438) [[Code]](https://github.com/jpspeng/gbsmssims)      
 
-* Liu, Y., Levis, A. W., Zhu, K., Yang, S., Gilbert, P. B., & **Han, L.** (2025). Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [[arXiv]](https://arxiv.org/abs/2501.18798) [[Code]](https://github.com/yiliu1998/FuseSurv)     
+* Liu, Y., Levis, A. W., Zhu, K., Yang, S., Gilbert, P. B., **Han, L.** (2025). Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift. [[arXiv]](https://arxiv.org/abs/2501.18798) [[Code]](https://github.com/yiliu1998/FuseSurv)     
 
-* **Han, L.**, Hou, J., Cho, K., Duan, R., & Cai, T. (2025). Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)  
+* **Han, L.**, Hou, J., Cho, K., Duan, R., Cai, T. (2025). Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249)  
 
-* Guo, Z., Li, X., **Han, L.**, & Cai, T. (2025). Robust Inference for Federated Meta-Learning. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246) [[Code]](https://github.com/celehs/RIFL)   
+* Guo, Z., Li, X., **Han, L.**, Cai, T. (2025). Robust Inference for Federated Meta-Learning. [[Journal of the American Statistical Association]](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246) [[Code]](https://github.com/celehs/RIFL)   
 
 
 
 ## **[2024]**  
 ---
-* Gao, C., Gilbert, P. B., & **Han, L.** (2024). On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [[arXiv]](https://arxiv.org/abs/2412.12365) [[Code]](https://github.com/Gaochenyin/SurrConformalDR)       
+* Gao, C., Gilbert, P. B., **Han, L.** (2024). On the Role of Surrogates in Conformal Inference of Individual Causal Effects. [[arXiv]](https://arxiv.org/abs/2412.12365) [[Code]](https://github.com/Gaochenyin/SurrConformalDR)       
 
 * **Han, L.** (2024). Truncated, Not Forgotten—Handling Left Truncation in Time-to-Event Studies. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2400384)  
 
 
-* Bather, J. R., **Han, L.**, Bennett, A. S., Elliott, L., & Goodman, M. S. (2024). Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures using Bayesian Kernel Machine Regression. [[The American Journal of Drug and Alcohol Abuse]](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463)  
+* Bather, J. R., **Han, L.**, Bennett, A. S., Elliott, L., Goodman, M. S. (2024). Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures using Bayesian Kernel Machine Regression. [[The American Journal of Drug and Alcohol Abuse]](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463)  
 
 
-* **Han, L.**, Li, Y., Niknam, B., & Zubizarreta, J. R. (2024). Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement. [[The Annals of Applied Statistics]](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)    
+* **Han, L.**, Li, Y., Niknam, B., Zubizarreta, J. R. (2024). Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement. [[The Annals of Applied Statistics]](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short)    
 
-* Liu, Y., Levis, A., Normand, S. & **Han, L.** (2024). Multi-Source Conformal Inference Under Distribution Shift. [[International Conference on Machine Learning (ICML)]](https://proceedings.mlr.press/v235/liu24ag.html) [[Code]](https://github.com/yiliu1998/MuSCI)    
+* Liu, Y., Levis, A., Normand, S. **Han, L.** (2024). Multi-Source Conformal Inference Under Distribution Shift. [[International Conference on Machine Learning (ICML)]](https://proceedings.mlr.press/v235/liu24ag.html) [[Code]](https://github.com/yiliu1998/MuSCI)    
 
-* **Han, L.**, Arfè, A., & Trippa, L. (2024). Sensitivity Analyses of Clinical Trial Designs: Selecting Scenarios and Summarizing Operating Characteristics. [[The American Statistician]](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2216253)  
+* **Han, L.**, Arfè, A., Trippa, L. (2024). Sensitivity Analyses of Clinical Trial Designs: Selecting Scenarios and Summarizing Operating Characteristics. [[The American Statistician]](https://www.tandfonline.com/doi/full/10.1080/00031305.2023.2216253)  
 
 
 
 ## **[2023]**
 ---
-* **Han, L.**, Shen, Z., & Zubizarreta, J. (2023). Multiply Robust Federated Estimation of Targeted Average Treatment Effects. [[Advances in Neural Information Processing Systems 36 (NeurIPS)]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/def4492b32f0248a0e4d92cc46bbdaad-Abstract-Conference.html)  
+* **Han, L.**, Shen, Z., Zubizarreta, J. (2023). Multiply Robust Federated Estimation of Targeted Average Treatment Effects. [[Advances in Neural Information Processing Systems 36 (NeurIPS)]](https://proceedings.neurips.cc/paper_files/paper/2023/hash/def4492b32f0248a0e4d92cc46bbdaad-Abstract-Conference.html)  
 
 
 * **Han, L.** (2023). Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials. [[NEJM Evidence]](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2300142)  
 
-* Wang, X., Parast, L., **Han, L.**, Tian, L., & Cai, T. (2023). Robust Approach to Combining Multiple Markers to Improve Surrogacy. [[Biometrics]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13677) [[Code]](https://github.com/laylaparast/CMFsurrogate)   
+* Wang, X., Parast, L., **Han, L.**, Tian, L., Cai, T. (2023). Robust Approach to Combining Multiple Markers to Improve Surrogacy. [[Biometrics]](https://onlinelibrary.wiley.com/doi/abs/10.1111/biom.13677) [[Code]](https://github.com/laylaparast/CMFsurrogate)   
 
 * Zhang, H. G., Honerlaw, J. P., Maripuri, M., ..., 4CE Consortium (**Han, L.**),..., & Brat, G. A. (2023). Potential Pitfalls in the Use of Real-World Data for Studying Long COVID. [[Nature Medicine]](https://www.nature.com/articles/s41591-023-02274-y)  
 
 
 ## **[2022]**  
 ---
-* **Han, L.**, Wang, X., & Cai, T. (2022). Identifying surrogate markers in real‐world comparative effectiveness research. [[Statistics in Medicine]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569)  
+* **Han, L.**, Wang, X., Cai, T. (2022). Identifying surrogate markers in real‐world comparative effectiveness research. [[Statistics in Medicine]](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569)  
 
 * Day, S., Hlatshwako, T. G., Lloyd, A., **Han, L.**, Tang, W., Bayus, B., & Tucker, J. D. (2022). Evaluating and volunteering for crowdsourced interventions: Cross-sectional data on COVID-19 safety from a University Survey. [[Plos One]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0275127)   
 
@@ -95,7 +97,7 @@ Cross (X)-Domain Acceleration (STAI-X)]](https://openreview.net/forum?id=aYlM08u
 ---
 * Wang, C., **Han, L.**, Stein, G., ... & Tucker, J. D. (2020). Crowdsourcing in health and medical research: a systematic review. [[Infectious Diseases of Poverty]](https://link.springer.com/article/10.1186/s40249-020-0622-9)  
 
-* Sidhu, K., **Han, L.**, Picard, K. C., Tedrow, U. B., & Lakdawala, N. K. (2020). Ventricular tachycardia in cardiolaminopathy: characteristics and considerations for device programming. [[Heart Rhythm]](https://www.sciencedirect.com/science/article/pii/S1547527120304574?casa_token=vAVIteWOIBwAAAAA:trcePd0xw-VOEpFT4ZYunD_iK89OgwJygPpgCR4nchZY9LLFuHGYctVb1H0wPoqHcqlZ7Zs)  
+* Sidhu, K., **Han, L.**, Picard, K. C., Tedrow, U. B., Lakdawala, N. K. (2020). Ventricular tachycardia in cardiolaminopathy: characteristics and considerations for device programming. [[Heart Rhythm]](https://www.sciencedirect.com/science/article/pii/S1547527120304574?casa_token=vAVIteWOIBwAAAAA:trcePd0xw-VOEpFT4ZYunD_iK89OgwJygPpgCR4nchZY9LLFuHGYctVb1H0wPoqHcqlZ7Zs)  
 
 * Marstrand, P., **Han, L.**, Day, S. M., ... & SHaRe Investigators. (2020). Hypertrophic cardiomyopathy with left ventricular systolic dysfunction: insights from the SHaRe registry. [[Circulation]](https://www.ahajournals.org/doi/full/10.1161/CIRCULATIONAHA.119.044366)   
 
@@ -103,9 +105,9 @@ Cross (X)-Domain Acceleration (STAI-X)]](https://openreview.net/forum?id=aYlM08u
 
 ## **[2019]**  
 ---
-* McCoy Jr, T. H., **Han, L.**, Pellegrini, A. M., Tanzi, R. E., Berretta, S., & Perlis, R. H. (2019). Stratifying risk for dementia onset using large-scale electronic health record data: a retrospective cohort study. [[Alzheimer's & Dementia]](https://www.sciencedirect.com/science/article/pii/S1552526019354846?casa_token=WVXPSoKq_HsAAAAA:epPjsrGBzVF6UW4gIQ2hqTkntzdVsmL1Fhoini6i1VU2AxysCPin5VlF6kk9V4u2Hzz7ivo)  
+* McCoy Jr, T. H., **Han, L.**, Pellegrini, A. M., Tanzi, R. E., Berretta, S., Perlis, R. H. (2019). Stratifying risk for dementia onset using large-scale electronic health record data: a retrospective cohort study. [[Alzheimer's & Dementia]](https://www.sciencedirect.com/science/article/pii/S1552526019354846?casa_token=WVXPSoKq_HsAAAAA:epPjsrGBzVF6UW4gIQ2hqTkntzdVsmL1Fhoini6i1VU2AxysCPin5VlF6kk9V4u2Hzz7ivo)  
 
-* **Han, L.**, Fine, J., Robinson, S. M., Boyle, A. A., Freeman, M., & Scholtes, S. (2019). Is seniority of emergency physician associated with the weekend mortality effect? An exploratory analysis of electronic health records in the UK. [[Emergency Medicine Journal]](https://emj.bmj.com/content/36/12/708.abstract)   
+* **Han, L.**, Fine, J., Robinson, S. M., Boyle, A. A., Freeman, M., Scholtes, S. (2019). Is seniority of emergency physician associated with the weekend mortality effect? An exploratory analysis of electronic health records in the UK. [[Emergency Medicine Journal]](https://emj.bmj.com/content/36/12/708.abstract)   
 
 * Li, K. T., Tang, W., Wu, D., ..., **Han, L.**, ... & Tucker, J. D. (2019). Pay-it-forward strategy to enhance uptake of dual gonorrhea and chlamydia testing among men who have sex with men in China: a pragmatic, quasi-experimental study. [[The Lancet Infectious Diseases]](https://www.thelancet.com/journals/laninf/article/PIIS1473-3099(18)30556-5/abstract)  
 
@@ -117,7 +119,7 @@ Cross (X)-Domain Acceleration (STAI-X)]](https://openreview.net/forum?id=aYlM08u
 
 * **Han, L.**, Hudgens, M. G., Emch, M. E., ... & Hoffman, I. F. (2017). RTS, S/AS01 malaria vaccine efficacy is not modified by seasonal precipitation: results from a phase 3 randomized controlled trial in Malawi. [[Scientific Reports]](https://www.nature.com/articles/s41598-017-07533-w)  
 
-* **Han, L.**, Wei, C., Muessig, K. E., Bien, C. H., Meng, G., Emch, M. E., & Tucker, J. D. (2017). HIV test uptake among MSM in China: implications for enhanced HIV test promotion campaigns among key populations. [[Global Public Health]](https://www.tandfonline.com/doi/full/10.1080/17441692.2015.1134612)  
+* **Han, L.**, Wei, C., Muessig, K. E., Bien, C. H., Meng, G., Emch, M. E., Tucker, J. D. (2017). HIV test uptake among MSM in China: implications for enhanced HIV test promotion campaigns among key populations. [[Global Public Health]](https://www.tandfonline.com/doi/full/10.1080/17441692.2015.1134612)  
 
 * Zhang, T. P., Liu, C., **Han, L.**, ... & Tucker, J. D. (2017). Community engagement in sexual health and uptake of HIV testing and syphilis testing among MSM in China: a cross‐sectional online survey. [[Journal of the International AIDS Society]](https://onlinelibrary.wiley.com/doi/10.7448/IAS.20.01/21372)  
 

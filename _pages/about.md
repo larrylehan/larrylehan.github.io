@@ -20,6 +20,9 @@ Feel free to reach out via email: [larry_han@brown.edu](larry_han@brown.edu).
 
 
 ## Recent News and Upcoming Events   
+Jul 2026. **[*HSORM* Acceptance]** [Outcome Prediction Using Image Features with Conformal Quantile Regression: Application to Kidney Function](https://link.springer.com/epdf/10.1007/s10742-026-00392-x?sharing_token=o8QKIZ48ztcPtuUBB1dtcve4RwlQNchNByi7wbcMAY6RI5ue6waJed8v5bdmuuMYSVz1buf2w72-RcrlXfI1ze4soOsc8MPrFYnJ44MyijgmvbxZTkvI_wifsEzu4gnUPLE3MHJtbua6eWpHV4KSvR939KsP18r0KRkj5GrDDqk%3D) has been accepted at HSORM (Health Services and Outcomes Research Methodology)!  
+* *Joint work with Jeremy Rubin and Jarcy Zee.*  
+
 Jul 2026. **[*STAI-X* Acceptance]** [FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions] has been accepted at STAI-X!  
 * *Joint work with Chenyin Gao.*
   

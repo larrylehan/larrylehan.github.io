@@ -1,0 +1,78 @@
+/* ==========================================================================
+   PEOPLE
+   ========================================================================== */
+
+.people-grid {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: 1.5rem;
+  margin: 1.5rem 0 2.5rem;
+
+  @include breakpoint($small) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+  }
+}
+
+.people-card {
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+  border: 1px solid $border-color;
+  border-radius: $border-radius;
+  background: $body-color;
+  box-shadow: $box-shadow;
+}
+
+.people-card__photo-link {
+  display: block;
+  background: $lighter-gray;
+}
+
+.people-card__photo {
+  display: block;
+  width: 100%;
+  aspect-ratio: 4 / 5;
+  object-fit: cover;
+  object-position: center;
+}
+
+.people-card__body {
+  display: flex;
+  flex: 1;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 1rem;
+}
+
+.people-card__name {
+  margin: 0 0 0.5rem;
+  font-size: $type-size-4;
+
+  a {
+    color: $text-color;
+    text-decoration: none;
+
+    &:hover {
+      color: $link-color-hover;
+      text-decoration: underline;
+    }
+  }
+}
+
+.people-card__position,
+.people-card__dates {
+  margin: 0 0 0.75rem;
+}
+
+.people-card__position {
+  font-size: $type-size-5;
+}
+
+.people-card__dates {
+  color: $gray;
+  font-size: $type-size-6;
+}
+
+.people-card__link {
+  margin-top: auto;
+}

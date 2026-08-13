@@ -24,6 +24,12 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ## Presentations    
 ---
 ### [2026]  
+Aug. **[ICSA Canada Chapter]** Montreal, CN.  
+History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes.  
+
+Aug. **[JSM 2026]** Boston, MA.  
+FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions.  
+
 Jun. **[Invited talk at Institute of Mathematical and Statistical Innovation]** Chicago, IL.  
 Targeted Data Fusion for Causal Survival Analysis.  
 
@@ -33,7 +39,7 @@ Targeted Data Fusion for Causal Survival Analysis.
 May. **[Invited talk at ACIC]** Salt Lake City, UT.  
 On the Role of Surrogates in Conformal Inference of Individual Causal Effects.  
 
-Apr. **[Invited talk at Duke Industry Statistics Symposium]** Durham, NC. 
+Apr. **[Invited talk at Duke Industry Statistics Symposium]** Durham, NC.  
 FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions. 
 
 Mar. **[ENAR 2026]** Indianapolis, IN.  

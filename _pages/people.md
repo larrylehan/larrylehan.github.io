@@ -46,18 +46,7 @@ author_profile: true
       </div>
     </article>
 
-    <article class="people-card">
-      <a class="people-card__photo-link" href="https://scholar.google.com/citations?user=voH09vkAAAAJ&amp;hl=en" aria-label="Visit Menghan Yi's Google Scholar profile">
-        <img class="people-card__photo" src="{{ base_path }}/images/people/menghan-yi.jpg" alt="Portrait of Menghan Yi" loading="lazy" decoding="async">
-      </a>
-      <div class="people-card__body">
-        <h3 class="people-card__name"><a href="https://scholar.google.com/citations?user=voH09vkAAAAJ&amp;hl=en">Menghan Yi</a></h3>
-        <p class="people-card__position">Postdoctoral Research Fellow at the University of Michigan</p>
-        <p class="people-card__details">Co-supervised with Peter Song and Fan Bu</p>
-        <p class="people-card__dates">Sep 2026 &ndash; Present</p>
-        <a class="btn people-card__link" href="https://scholar.google.com/citations?user=voH09vkAAAAJ&amp;hl=en">Google Scholar</a>
-      </div>
-    </article>
+   
   </div>
 </section>
 

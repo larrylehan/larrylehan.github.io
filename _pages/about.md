@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome"
+title: "Larry Han"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,15 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-**Update**: Starting July 1, 2026, I have joined Brown University as an Assistant Professor, jointly appointed in the Department of Biostatistics and the Brown Data Science Institute.  
+I am an Assistant Professor jointly appointed in the [Department of Biostatistics](https://vivo.brown.edu/display/lhan39#All) and the [Data Science Institute](https://dsi.brown.edu/people/larry-han) at Brown University, and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html). [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) develops novel causal inference and uncertainty quantification methods for high-stakes decisions in public health and clinical medicine. I am particularly interested in learning from randomized trials and observational studies when data are distributed across institutions. My current work spans causal machine learning, conformal inference, data integration and federated learning, and survival analysis.
 
-I am an Assistant Professor of Biostatistics and Data Science at [Brown University](https://vivo.brown.edu/display/lhan39#All) and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html). I was previously an Assistant Professor at Northeastern University from 2023-2026. [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) focuses on developing novel statistical and machine learning methods to leverage real-world data to improve decision-making, with a focus on public health and clinical medicine. This includes designing robust, efficient, and targeted estimators for learning causal effects using large-scale data generated from observational studies and randomized trials. My current areas of interest include causal inference, conformal inference, data integration, federated learning, and survival analysis.
-
-I received my PhD in [Biostatistics at Harvard University](https://www.hsph.harvard.edu/biostatistics/), where I was advised by [Tianxi Cai](https://www.hsph.harvard.edu/profile/tianxi-cai/) and [Lorenzo Trippa](https://www.hsph.harvard.edu/profile/lorenzo-trippa/). I completed a postdoc in [Health Care Policy at Harvard Medical School](https://hcp.hms.harvard.edu/about), mentored by [Sharon-Lise Normand](https://hcp.hms.harvard.edu/people/sharon-lise-normand). I hold an AM in Biostatistics from Harvard, an MPhil in Healthcare Operations from the University of Cambridge (Gates Cambridge Scholar), an MA in Global Affairs from Tsinghua University (Schwarzman Scholar), and a BS in Public Health and Biostatistics from UNC-Chapel Hill (Morehead-Cain Scholar). Outside of work, I enjoy playing golf, staying up-to-date on global affairs, reading biographies, and cheering on the UNC Tar Heels.   
-
-Feel free to reach out via email: [larry_han@brown.edu](larry_han@brown.edu). 
-
-**[I currently have openings for postdocs, PhD students, and research assistants! Feel free to contact me if you'd like to learn more about our research.]**
+I am recruiting postdoctoral fellows, PhD students, and research assistants interested in these areas. Please feel free to email me at [larry_han@brown.edu](larry_han@brown.edu).
 
 
 ## Recent News and Upcoming Events   

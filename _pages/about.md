@@ -12,8 +12,10 @@ I am an Assistant Professor jointly appointed in the [Department of Biostatistic
 
 I am recruiting postdoctoral fellows, PhD students, and research assistants interested in these areas. Please feel free to email me at [larry_han@brown.edu](larry_han@brown.edu).
 
+I received my PhD in [Biostatistics at Harvard University](https://www.hsph.harvard.edu/biostatistics/), advised by [Tianxi Cai](https://www.hsph.harvard.edu/profile/tianxi-cai/) and [Lorenzo Trippa](https://www.hsph.harvard.edu/profile/lorenzo-trippa/). I then completed a postdoc in [Health Care Policy at Harvard Medical School](https://hcp.hms.harvard.edu/about) with [Sharon-Lise Normand](https://hcp.hms.harvard.edu/people/sharon-lise-normand). I hold an AM in Biostatistics from Harvard, an MPhil in Healthcare Operations from the University of Cambridge (Gates Cambridge Scholar), an MA in Global Affairs from Tsinghua University (Schwarzman Scholar), and a BS in Public Health and Biostatistics from UNC-Chapel Hill (Morehead-Cain Scholar). Outside of work, I enjoy playing golf, staying up-to-date on global affairs, reading biographies, and cheering on the UNC Tar Heels.   
 
-## Recent News and Upcoming Events   
+
+## News  
 Jul 2026. **[*HSORM* Acceptance]** [Outcome Prediction Using Image Features with Conformal Quantile Regression: Application to Kidney Function](https://link.springer.com/epdf/10.1007/s10742-026-00392-x?sharing_token=o8QKIZ48ztcPtuUBB1dtcve4RwlQNchNByi7wbcMAY6RI5ue6waJed8v5bdmuuMYSVz1buf2w72-RcrlXfI1ze4soOsc8MPrFYnJ44MyijgmvbxZTkvI_wifsEzu4gnUPLE3MHJtbua6eWpHV4KSvR939KsP18r0KRkj5GrDDqk%3D) has been accepted at HSORM (Health Services and Outcomes Research Methodology)!  
 * *Joint work with Jeremy Rubin and Jarcy Zee.*  
 

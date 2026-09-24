@@ -17,7 +17,7 @@ I received my PhD in [Biostatistics at Harvard University](https://www.hsph.harv
 
 ## News  
 Sep 2026. **[*NeurIPS 2026* Acceptance]** [History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://openreview.net/forum?id=OPFzq5afFw&noteId=OFfJ3hVBc5) has been accepted at NeurIPS!  
-* *Joint work with Yuyao Wang, Alex Levis, and Shu Yang.
+* *Joint work with Yuyao Wang, Alex Levis, and Shu Yang.*
 
 Jul 2026. **[*HSORM* Acceptance]** [Outcome Prediction Using Image Features with Conformal Quantile Regression: Application to Kidney Function](https://link.springer.com/epdf/10.1007/s10742-026-00392-x?sharing_token=o8QKIZ48ztcPtuUBB1dtcve4RwlQNchNByi7wbcMAY6RI5ue6waJed8v5bdmuuMYSVz1buf2w72-RcrlXfI1ze4soOsc8MPrFYnJ44MyijgmvbxZTkvI_wifsEzu4gnUPLE3MHJtbua6eWpHV4KSvR939KsP18r0KRkj5GrDDqk%3D) has been accepted at HSORM (Health Services and Outcomes Research Methodology)!  
 * *Joint work with Jeremy Rubin and Jarcy Zee.*  

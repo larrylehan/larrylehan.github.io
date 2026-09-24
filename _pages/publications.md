@@ -15,7 +15,7 @@ Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&u
 
 ## **[2026]**
 ---
-* Wang, Y., Levis, A., Yang, S., **Han, L.** (2026+). History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes. [[Arxiv]](https://arxiv.org/abs/2605.06581) [[Code]](https://github.com/wangyuyao98/HAPS)
+* Wang, Y., Levis, A., Yang, S., **Han, L.** (2026). History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes. [[NeurIPS]](https://openreview.net/forum?id=OPFzq5afFw&noteId=OFfJ3hVBc5) [[Code]](https://github.com/wangyuyao98/HAPS)   
 
 * Rubin, J., **Han, L.,** Zee, J. (2026). Outcome Prediction Using Image Features with Conformal Quantile Regression: Application to Kidney Function. [[Health Services and Outcomes Research Methodology]](https://link.springer.com/epdf/10.1007/s10742-026-00392-x?sharing_token=o8QKIZ48ztcPtuUBB1dtcve4RwlQNchNByi7wbcMAY6RI5ue6waJed8v5bdmuuMYSVz1buf2w72-RcrlXfI1ze4soOsc8MPrFYnJ44MyijgmvbxZTkvI_wifsEzu4gnUPLE3MHJtbua6eWpHV4KSvR939KsP18r0KRkj5GrDDqk%3D) 
 

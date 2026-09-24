@@ -24,7 +24,10 @@ Banff International Research Station, Aug 2022 [[Video]](https://www.birs.ca/eve
 ## Presentations    
 ---
 ### [2026]  
-Aug. **[ICSA Canada Chapter]** Montreal, CN.  
+Sep. **[World Congress of Psychiatry]** Stockholm, Sweden.  
+Heterogeneity of Safety and Effectiveness of Antipsychotic Drugs Across Racial and Ethnic Medicare Beneficiaries with Schizophrenia.  
+
+Aug. **[ICSA Canada Chapter]** Montreal, Canada.  
 History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes.  
 
 Aug. **[JSM 2026]** Boston, MA.  

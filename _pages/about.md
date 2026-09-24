@@ -23,10 +23,7 @@ Jul 2026. **[*HSORM* Acceptance]** [Outcome Prediction Using Image Features with
 * *Joint work with Jeremy Rubin and Jarcy Zee.*  
 
 Jul 2026. **[*STAI-X* Acceptance]** [FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions] has been accepted at STAI-X!  
-* *Joint work with Chenyin Gao.*
-  
-May 2026. **[New preprint]** [History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://arxiv.org/abs/2605.06581) is available on Arxiv.  
-* *Joint work with Yuyao Wang, Alex Levis, and Shu Yang.*  
+* *Joint work with Chenyin Gao.*  
   
 Mar 2026. **[*Journal of Causal Inference* Acceptance]** [Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Censoring](https://arxiv.org/pdf/2411.16902) has been accepted at JCI!  
 * *Joint work with Max Rubinstein, Denis Agniel, Marcela Horvitz-Lennon, and Sharon-Lise Normand.*

@@ -8,33 +8,27 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor jointly appointed in the [Department of Biostatistics](https://vivo.brown.edu/display/lhan39#All) and the [Data Science Institute](https://dsi.brown.edu/people/larry-han) at Brown University, and an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html). [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) develops causal inference and uncertainty quantification methods for high-stakes decisions, especially in public health and clinical medicine. I am particularly interested in learning from randomized trials and observational studies when data are distributed across institutions. My current work spans causal machine learning, conformal inference, data integration and federated learning, and survival analysis.
-
-I am recruiting postdoctoral fellows, PhD students, and research assistants interested in these areas. If you are interested, please feel free to email me at [larry_han@brown.edu](larry_han@brown.edu).
+I am an Assistant Professor of Biostatistics and Data Science at Brown University, with a joint appointment in the [Department of Biostatistics](https://vivo.brown.edu/display/lhan39#All) and the [Brown Data Science Institute](https://dsi.brown.edu/people/larry-han). I am an Affiliate Investigator in the Vaccine and Infectious Disease Division at the [Fred Hutch Cancer Center](https://www.fredhutch.org/en.html). [My research](https://scholar.google.com/citations?user=iZnTmxMAAAAJ&hl=en&oi=ao) is in causal inference and uncertainty quantification for decision-making, with a focus on real-world problems (e.g., congenital heart defects, vaccine efficacy and safety, etc.) in public health and clinical medicine. My current work spans causal machine learning, conformal inference, data integration/federated learning, and survival analysis. I am particularly interested in learning from randomized trials and observational studies when data are distributed across institutions. I am recruiting postdoctoral fellows, PhD students, and research assistants interested in these areas. If you are interested, please feel free to email me at [larry_han@brown.edu](larry_han@brown.edu).
 
 I received my PhD in [Biostatistics at Harvard University](https://www.hsph.harvard.edu/biostatistics/), advised by [Tianxi Cai](https://www.hsph.harvard.edu/profile/tianxi-cai/) and [Lorenzo Trippa](https://www.hsph.harvard.edu/profile/lorenzo-trippa/). I then completed a postdoc in [Health Care Policy at Harvard Medical School](https://hcp.hms.harvard.edu/about) with [Sharon-Lise Normand](https://hcp.hms.harvard.edu/people/sharon-lise-normand). I hold an AM in Biostatistics from Harvard, an MPhil in Healthcare Operations from the University of Cambridge (Gates Cambridge Scholar), an MA in Global Affairs from Tsinghua University (Schwarzman Scholar), and a BS in Public Health and Biostatistics from UNC-Chapel Hill (Morehead-Cain Scholar). Outside of work, I enjoy playing golf, staying up-to-date on global affairs, reading biographies, and cheering on the UNC Tar Heels.   
 
 
 ## News  
-Sep 2026. **[*NeurIPS 2026* Acceptance]** [History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://openreview.net/forum?id=OPFzq5afFw&noteId=OFfJ3hVBc5) has been accepted at NeurIPS!  
-* *Joint work with Yuyao Wang, Alex Levis, and Shu Yang.*
+Nov 2026. **[*2 new preprints*]** (i) [Vector Incremental Treatment Effects](https://arxiv.org/pdf/2611.00417) led by Denis Agniel and Max Rubinstein, and with Marcela Horvitz-Lennon and Sharon-Lise Normand, and (ii) [Causal Effect Estimation Under Uncertain Statistical Surrogacy](https://arxiv.org/pdf/2611.26289) led by Yi Liu, and with Alex Levis and Shu Yang.  
 
-Jul 2026. **[*HSORM* Acceptance]** [Outcome Prediction Using Image Features with Conformal Quantile Regression: Application to Kidney Function](https://link.springer.com/epdf/10.1007/s10742-026-00392-x?sharing_token=o8QKIZ48ztcPtuUBB1dtcve4RwlQNchNByi7wbcMAY6RI5ue6waJed8v5bdmuuMYSVz1buf2w72-RcrlXfI1ze4soOsc8MPrFYnJ44MyijgmvbxZTkvI_wifsEzu4gnUPLE3MHJtbua6eWpHV4KSvR939KsP18r0KRkj5GrDDqk%3D) has been accepted at HSORM (Health Services and Outcomes Research Methodology)!  
-* *Joint work with Jeremy Rubin and Jarcy Zee.*  
+Sep 2026. **[*NeurIPS 2026* Acceptance]** [History-Aware Conformal Prediction Sets for Censored Time-to-Event Outcomes](https://openreview.net/forum?id=OPFzq5afFw&noteId=OFfJ3hVBc5) has been accepted at NeurIPS! Led by Yuyao Wang, and with Alex Levis and Shu Yang.  
 
-Jul 2026. **[*STAI-X* Acceptance]** [FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions] has been accepted at STAI-X!  
-* *Joint work with Chenyin Gao.*  
+Jul 2026. **[*HSORM* Acceptance]** [Outcome Prediction Using Image Features with Conformal Quantile Regression: Application to Kidney Function](https://link.springer.com/epdf/10.1007/s10742-026-00392-x?sharing_token=o8QKIZ48ztcPtuUBB1dtcve4RwlQNchNByi7wbcMAY6RI5ue6waJed8v5bdmuuMYSVz1buf2w72-RcrlXfI1ze4soOsc8MPrFYnJ44MyijgmvbxZTkvI_wifsEzu4gnUPLE3MHJtbua6eWpHV4KSvR939KsP18r0KRkj5GrDDqk%3D) has been accepted at HSORM (Health Services and Outcomes Research Methodology)! Led by Jeremy Rubin, and with Jarcy Zee.  
+
+Jul 2026. **[*STAI-X* Acceptance]** [FACTOR: Fairness-Aligned Conformal Transport for Optimal Regions] has been accepted at STAI-X! Joint work with Chenyin Gao.  
   
-Mar 2026. **[*Journal of Causal Inference* Acceptance]** [Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Censoring](https://arxiv.org/pdf/2411.16902) has been accepted at JCI!  
-* *Joint work with Max Rubinstein, Denis Agniel, Marcela Horvitz-Lennon, and Sharon-Lise Normand.*
+Mar 2026. **[*Journal of Causal Inference* Acceptance]** [Bounding Causal Effects with an Unknown Mixture of Informative and Non-informative Censoring](https://arxiv.org/pdf/2411.16902) has been accepted at JCI! Led by Max Rubinstein and Denis Agniel, and with Marcela Horvitz-Lennon and Sharon-Lise Normand.  
   
-Jan 2026. **[*ICLR 2026* Acceptance]** [Privacy-Protected Causal Survival Analysis Under Distribution Shift](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) has been accepted at ICLR 2026!  
-* *Joint work with Yi Liu, Alex Levis, Ke Zhu, Shu Yang, and Peter Gilbert.*  
+Jan 2026. **[*ICLR 2026* Acceptance]** [Privacy-Protected Causal Survival Analysis Under Distribution Shift](https://openreview.net/forum?id=aTxnsFFO7t&noteId=cmE8QnmGC9) has been accepted at ICLR 2026! Led by Yi Liu, and with Alex Levis, Ke Zhu, Shu Yang, and Peter Gilbert.  
 
 Dec 2025. **[PCORI Awarded]** I will be the PI on a new study, [Developing Accurate and Practical Methods To Quantify Uncertainty in Predictions Made by Artificial Intelligence Models](https://www.pcori.org/research-results/2025/developing-methods-uncertainty-predictions-artificial-intelligence-models), funded by PCORI for $1+ million, Mar 2026 - Feb 2029!  
 
-Oct 2025. **[*JRSS-A* Acceptance]** [COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials](https://arxiv.org/abs/2501.08945) is accepted in *JRSS-A*!  
-* *Joint work with Yi Liu, Ke Zhu, and Shu Yang.*
+Oct 2025. **[*JRSS-A* Acceptance]** [COADVISE: Covariate Adjustment with Variable Selection in Randomized Controlled Trials](https://arxiv.org/abs/2501.08945) is accepted in *JRSS-A*! Led by Yi Liu, and with Ke Zhu and Shu Yang.  
 
 Sep 2025. **[NIH K01 Funded]** [Causal Machine Learning Methods to Study Individual Vaccine Efficacy Using Multi-Source Data](https://reporter.nih.gov/search/vhResbUI9UWt68NtmXm2Qg/project-details/11213127) is funded by the NIAID!  
 * Mentors: Peter Gilbert, Sharon-Lise Normand, Michael Hudgens, Andrea Troxel, Alex Vespignani, Lindsey Baden, Dan Barouch  
@@ -43,54 +37,39 @@ Sep 2025. **[Fall 2025 Teaching]** I am teaching 2 courses in the fall: (i) PHTH
 
 Jul 2025. **[*JAMA Oncology* Publication]** [Considerations for Using Clinical Practice Data to Study COVID-19 Vaccines in Patients With Cancer](https://jamanetwork.com/journals/jamaoncology/fullarticle/2836496?guestAccessKey=0f7a1a7f-d3a0-43de-ad6b-94eafd8b77da&utm_source=jps&utm_medium=email&utm_campaign=author_alert-jamanetwork&utm_content=author-author_engagement&utm_term=1m) is published in *JAMA Oncology*.  
 
-Jul 2025. **[*ICML 2025* Publication]** [Bridging Fairness and Efficiency in Conformal Inference](https://openreview.net/pdf?id=Nxv7d5GjcY) has been accepted and will be presented at *ICML 2025* in Vancouver!  
-* *Joint work with Chenyin Gao and Peter Gilbert.*
+Jul 2025. **[*ICML 2025* Publication]** [Bridging Fairness and Efficiency in Conformal Inference](https://openreview.net/pdf?id=Nxv7d5GjcY) has been accepted and will be presented at *ICML 2025* in Vancouver! Joint work with Chenyin Gao and Peter Gilbert.  
   
 Jun 2025.  **[*JAMA Network Open* Publication]** [Addressing Distribution Shift for Robust and Trustworthy Prediction and Causal Inference in Clinical AI Settings](https://jamanetwork.com/journals/jamanetworkopen/fullarticle/2834887) is published in *JAMA Network Open*.  
 
-May 2025. **[*Biostatistics* Publication]** [A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438?login=false) is accepted in *Biostatistics*.  
-* *Joint work with Peter Gilbert, James Peng, Theis Lange, Yun Lu, Lei Nie, Mei-Chiung Shih, Salina Waddy, Ken Wiley, Margot Yann, Zafar Zafari, Debashis Ghosh, Dean Follmann, Michael Juraska, and Ivan Diaz.*
+May 2025. **[*Biostatistics* Publication]** [A Surrogate Endpoint Based Provisional Approval Causal Roadmap, Illustrated by Vaccine Development](https://academic.oup.com/biostatistics/article/26/1/kxaf018/8171438?login=false) is accepted in *Biostatistics*.  Led by Peter Gilbert and James Peng, and born from FIORD 2024 with Theis Lange, Yun Lu, Lei Nie, Mei-Chiung Shih, Salina Waddy, Ken Wiley, Margot Yann, Zafar Zafari, Debashis Ghosh, Dean Follmann, Michael Juraska, and Ivan Diaz.  
 
 May 2025. **[Methods Workshop]** I am giving a [Methods Workshop](https://heller.brandeis.edu/spire-center/activities/index.html) at the Brandeis-Harvard SPIRE Center titled "Multi-Source Causal Inference Leveraging Transfer Learning".  
 
 Apr 2025. **[*HDSI Causal Seminar* Discussant]** I am the discussant for [Elias Bareinboim's talk "Towards Causal Artificial Intelligence"](https://datascience.harvard.edu/calendar_event/causal-seminar-elias-bareinboim/?mc_cid=069bf2711b&mc_eid=40fc9df331) at the Harvard Data Science Initiative Causal Seminar.  
 
-Mar 2025. **[*JASA* Publication]** [Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249) is published in *Journal of the American Statistical Association*.  
-* *Joint work with Jue Hou, Kelly Cho, Rui Duan, and Tianxi Cai.*  
-
-Jan 2025. **[New preprint]** [Targeted Data Fusion for Causal Survival Analysis Under Distribution Shift](https://arxiv.org/pdf/2501.18798) is available on Arxiv.  
-* *Joint work with Yi Liu, Alex Levis, Ke Zhu, Shu Yang, and Peter Gilbert.*
+Mar 2025. **[*JASA* Publication]** [Federated Adaptive Causal Estimation (FACE) of Target Treatment Effects](https://www.tandfonline.com/doi/full/10.1080/01621459.2025.2453249) is published in *Journal of the American Statistical Association*. Joint work with Jue Hou, Kelly Cho, Rui Duan, and Tianxi Cai.  
 
 Jan 2025. **[Spring 2025 - Teaching PHTH 6800: Causal Inference in Public Health Research]** I will teach a PhD-level first course in causal inference.  
 
-Jan 2025. **[*JASA* Publication]** [Robust Inference for Federated Meta-Learning](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246) is published in *Journal of the American Statistical Association*.  
-* *Joint work with Zijian Guo, Xiudi Li, and Tianxi Cai*.
+Jan 2025. **[*JASA* Publication]** [Robust Inference for Federated Meta-Learning](https://www.tandfonline.com/doi/full/10.1080/01621459.2024.2443246) is published in *Journal of the American Statistical Association*. Joint work with Zijian Guo, Xiudi Li, and Tianxi Cai.  
 
-Dec 2024. **[New preprint]** [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) is available on Arxiv.  
-* *Joint work with Chenyin Gao and Peter Gilbert.*
+Dec 2024. **[New preprint]** [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) is available on Arxiv. Joint work with Chenyin Gao and Peter Gilbert.  
 
 Dec 2024. **[ICSDS invited talk]** I will present [On the Role of Surrogates in Conformal Inference of Individual Causal Effects](https://arxiv.org/pdf/2412.12365) at the International Conference on Statistics and Data Science (ICSDS) in Nice, France.  
 
 Nov 2024. **[*NEJM Evidence* Publication]** [Truncated, Not Forgotten — Handling Left Truncation in Time-to-Event Studies](https://evidence.nejm.org/doi/full/10.1056/EVIDe2400384) is published in *NEJM Evidence*.    
  
+Jul 2024. **[*The American Journal of Drug and Alcohol Abuse* Publication]** [Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures using Bayesian Kernel Machine Regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*. Led by Jemar Bather, and with Alex Bennet, Luther Elliott, and Melody Goodman.  
 
-Jul 2024. **[*The American Journal of Drug and Alcohol Abuse* Publication]** [Detecting Univariate, Bivariate, and Overall Effects of Drug Mixtures using Bayesian Kernel Machine Regression](https://www.tandfonline.com/doi/full/10.1080/00952990.2024.2380463) is published in *The American Journal of Drug and Alcohol Abuse*.  
-* *Joint work with Jemar Bather, Alex Bennet, Luther Elliott, and Melody Goodman.*
+Jul 2024. **[[*WebENAR: Van Ryzin Award Highlights*]](https://www.enar.org/education/)** [Identifying Surrogate Markers in Real-world Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569) is published in *Statistics in Medicine.*  Joint work with Xuan Wang and Tianxi Cai.   
 
-Jul 2024. **[[*WebENAR: Van Ryzin Award Highlights*]](https://www.enar.org/education/)** [Identifying Surrogate Markers in Real-world Comparative Effectiveness Research](https://onlinelibrary.wiley.com/doi/abs/10.1002/sim.9569) is published in *Statistics in Medicine.*  
-* *Joint work with Xuan Wang and Tianxi Cai.*  
+May 2024. **[*ICML 2024* Publication]** [Multi-Source Conformal Inference Under Distribution Shift](https://proceedings.mlr.press/v235/liu24ag.html) has been accepted at *ICML 2024*! [[Code]](https://github.com/yiliu1998/Multi-Source-Conformal).  Joint work with Yi Liu, Alex Levis, and Sharon-Lise Normand.  
 
-
-May 2024. **[*ICML 2024* Publication]** [Multi-Source Conformal Inference Under Distribution Shift](https://proceedings.mlr.press/v235/liu24ag.html) has been accepted at *ICML 2024*! [[Code]](https://github.com/yiliu1998/Multi-Source-Conformal).  
-* *Joint work with Yi Liu, Alex Levis, and Sharon-Lise Normand.*
-
-Apr 2024. **[*AOAS* Publication]** [Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short) is published in the *Annals of Applied Statistics*.   
-* *Joint work with Yige Li, Bijan Niknam, and Jose Zubizarreta.*
+Apr 2024. **[*AOAS* Publication]** [Privacy-Preserving, Communication-Efficient, and Target-Flexible Hospital Quality Measurement](https://projecteuclid.org/journals/annals-of-applied-statistics/volume-18/issue-2/Privacy-preserving-communication-efficient-and-target-flexible-hospital-quality-measurement/10.1214/23-AOAS1837.short) is published in the *Annals of Applied Statistics*.  Joint work with Yige Li, Bijan Niknam, and Jose Zubizarreta.  
 
 Jan 2024. **[Spring 2024 - Teaching HSCI 5151: Methods for Observational Studies 2]** Boston, MA.   
 
-Dec 2023. **[*NeurIPS 2023* Publication]** I will present [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://neurips.cc/virtual/2023/poster/71928)  in New Orleans, LA.  
-* *Joint work with Zhu Shen and Jose Zubizarreta.*
+Dec 2023. **[*NeurIPS 2023* Publication]** I will present [Multiply Robust Federated Estimation of Targeted Average Treatment Effects](https://neurips.cc/virtual/2023/poster/71928)  in New Orleans, LA. Joint work with Zhu Shen and Jose Zubizarreta.  
 
 Jul 2023. **[*NEJM Evidence* Publication]** [Breaking Free from the Hazard Ratio: Embracing the Restricted Mean Survival Time in Clinical Trials](https://evidence.nejm.org/doi/abs/10.1056/EVIDe2300142) is published in *NEJM Evidence*.  
 

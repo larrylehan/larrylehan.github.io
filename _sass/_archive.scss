@@ -243,3 +243,18 @@
     }
   }
 }
+
+.publication-list {
+  li {
+    margin-bottom: 0.35em;
+  }
+
+  li > p {
+    margin: 0 0 0.85em;
+  }
+
+  li a:first-of-type {
+    color: #861f32;
+    font-weight: 600;
+  }
+}

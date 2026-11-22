@@ -8,12 +8,12 @@
   gap: 1rem;
   margin: 1rem 0 2rem;
 
-  @include breakpoint($small) {
-    grid-template-columns: repeat(3, minmax(0, 1fr));
+  @include breakpoint(40em) {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
   }
 
-  @include breakpoint($large) {
-    grid-template-columns: repeat(4, minmax(0, 1fr));
+  @include breakpoint(72em) {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
   }
 }
 
@@ -28,35 +28,27 @@
 }
 
 .people-card {
-  display: grid;
-  grid-template-columns: 5.5rem minmax(0, 1fr);
-  align-items: start;
-  overflow: hidden;
+  min-height: 16rem;
   padding: 0.75rem;
   border: 1px solid $border-color;
   border-radius: $border-radius;
   background: $body-color;
   box-shadow: $box-shadow;
+}
 
-  @include breakpoint($small) {
-    display: flex;
-    flex-direction: column;
-    height: 26rem;
-    padding: 0;
-  }
+.people-card__header {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-bottom: 0.75rem;
 }
 
 .people-card__photo-link {
   display: block;
-  width: 5.5rem;
+  flex: 0 0 4rem;
   overflow: hidden;
   border-radius: $border-radius;
   background: $lighter-gray;
-
-  @include breakpoint($small) {
-    width: 7rem;
-    margin: 0.75rem auto 0;
-  }
 }
 
 .people-card__photo {
@@ -72,27 +64,13 @@
   object-fit: contain;
 }
 
-.people-card__body {
-  display: flex;
-  flex: 1;
-  flex-direction: column;
-  align-items: flex-start;
-  min-width: 0;
-  padding: 0 0 0 0.75rem;
-
-  @include breakpoint($small) {
-    width: 100%;
-    padding: 0.75rem;
-  }
-}
-
 .people-card__name {
-  margin: 0 0 0.35rem;
+  margin: 0;
   font-size: $type-size-4;
 
   a {
     color: $text-color;
-    text-decoration: none;
+    text-decoration: underline;
 
     &:hover {
       color: $link-color-hover;
@@ -120,11 +98,6 @@
   font-size: $type-size-6;
 }
 
-.people-card .people-card__link {
-  margin-top: auto;
-  background-color: $link-color;
-
-  &:hover {
-    background-color: $link-color-hover;
-  }
+.people-card__body > :last-child {
+  margin-bottom: 0;
 }

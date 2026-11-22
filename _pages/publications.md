@@ -4,14 +4,11 @@ title: "Research"
 permalink: /publications/
 author_profile: true
 ---
-I develop statistical and machine learning methods with real-world applications in the areas of:
-* Causal inference
-* Conformal inference 
-* Data integration
-* Federated learning  
-* Survival analysis
+I develop statistical and machine learning methods for real-world applications in causal inference, conformal inference, data integration, federated learning, and survival analysis.
 
 Please see my [Google Scholar page](https://scholar.google.com/citations?hl=en&user=iZnTmxMAAAAJ&view_op=list_works&sortby=pubdate) for a full list of publications. Here, I highlight some of my research.  
+
+<div class="publication-list" markdown="1">
 
 ## **[2026]**
 ---
@@ -127,5 +124,6 @@ Cross (X)-Domain Acceleration (STAI-X)]](https://openreview.net/forum?id=aYlM08u
 
 * Tang, W., **Han, L.**, Best, J., ... & Tucker, J. D. (2016). Crowdsourcing HIV test promotion videos: a noninferiority randomized controlled trial in China. [[Clinical Infectious Diseases]](https://academic.oup.com/cid/article/62/11/1436/1745296)  
 
-* **Han, L.**, Bien, C. H., Wei, C., ... & Tucker, J. D. (2014). HIV self-testing among online MSM in China: implications for expanding HIV testing among key populations. [[Journal of Acquired Immune Deficiency Syndromes]](https://journals.lww.com/jaids/fulltext/2014/10010/hiv_self_testing_among_online_msm_in_china_.15.aspx?casa_token=JFx5A_8AeLEAAAAA:zrNTNjLuHCURjAj13t45y4cpjWT9UsbUDGJpgaNZLEJv0tStvJo0XQIy7tS3ELj6M21NR9XhJhCMuzOikg)  
+* **Han, L.**, Bien, C. H., Wei, C., ... & Tucker, J. D. (2014). HIV self-testing among online MSM in China: implications for expanding HIV testing among key populations. [[Journal of Acquired Immune Deficiency Syndromes]](https://journals.lww.com/jaids/fulltext/2014/10010/hiv_self_testing_among_online_msm_in_china_.15.aspx?casa_token=JFx5A_8AeLEAAAAA:zrNTNjLuHCURjAj13t45y4cpjWT9UsbUDGJpgaNZLEJv0tStvJo0XQIy7tS3ELj6M21NR9XhJhCMuzOikg)
 
+</div>
